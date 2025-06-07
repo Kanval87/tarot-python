@@ -16,38 +16,43 @@ import random
 import json
 import os
 
-class TarotCard(Image):
-    def __init__(self, card_name, orientation, description, **kwargs):
-        if orientation == "upright":
+
+class TarotCard(BoxLayout):
+    def __init__(self, card_name, img_orientation, description, **kwargs):
+        super().__init__(orientation='vertical', spacing=5, padding=5, **kwargs)
+        if img_orientation == "upright":
             image_path = f"tarot_cards/{card_name}.png"
         else:
             image_path = f"tarot_cards/{card_name} - Copy.png"
-        super().__init__(source=image_path, **kwargs)
-        self.card_name = card_name
-        self.orientation = orientation
-        self.description = description
-        self.allow_stretch = True
-        self.keep_ratio = True
-        self.bind(on_touch_down=self.show_details)
 
-    def show_details(self, instance, touch):
-        if self.collide_point(*touch.pos):
-            # Use a BoxLayout with a scrollable Label for better formatting and containment
-            from kivy.uix.scrollview import ScrollView
-            from kivy.uix.boxlayout import BoxLayout
-            from kivy.uix.textinput import TextInput
-            box = BoxLayout(orientation='vertical', padding=10)
-            scroll = ScrollView(size_hint=(1, 1))
-            label = Label(
-                text=f"{self.card_name} ({self.orientation.capitalize()}):\n\n{json.dumps(self.description, indent=2, ensure_ascii=False)}",
-                size_hint_y=None, halign='left', valign='top'
-            )
-            label.bind(texture_size=lambda instance, value: setattr(label, 'height', value[1]))
-            label.text_size = (600, None)  # Set a fixed width for wrapping
-            scroll.add_widget(label)
-            box.add_widget(scroll)
-            popup = Popup(title="Card Details", content=box, size_hint=(0.9, 0.7))
-            popup.open()
+        self.card_name = card_name
+        self.description = description
+
+        self.image = Image(source=image_path, allow_stretch=True, keep_ratio=True)
+        self.add_widget(self.image)
+
+        self.detail_button = Button(text="Details", size_hint_y=None, height=30)
+        self.detail_button.bind(on_release=self.show_details)
+        self.add_widget(self.detail_button)
+
+    def show_details(self, instance):
+        from kivy.uix.scrollview import ScrollView
+        from kivy.uix.boxlayout import BoxLayout
+        from kivy.uix.label import Label
+        from kivy.uix.popup import Popup
+
+        box = BoxLayout(orientation='vertical', padding=10)
+        scroll = ScrollView(size_hint=(1, 1))
+        label = Label(
+            text=f"{self.card_name} ({self.orientation.capitalize()}):\n\n{json.dumps(self.description, indent=2, ensure_ascii=False)}",
+            size_hint_y=None, halign='left', valign='top'
+        )
+        label.bind(texture_size=lambda instance, value: setattr(label, 'height', value[1]))
+        label.text_size = (600, None)
+        scroll.add_widget(label)
+        box.add_widget(scroll)
+        popup = Popup(title="Card Details", content=box, size_hint=(0.9, 0.7))
+        popup.open()
 
 class TarotApp(App):
     def build(self):
