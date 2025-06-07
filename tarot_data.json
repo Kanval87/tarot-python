@@ -1,0 +1,1718 @@
+{
+    "The Fool": {
+        "upright": {
+            "General Meaning": "New beginnings, adventure, innocence, freedom, spontaneity, leap of faith.",
+            "Mental/Emotional Aspects": "Optimism, open-mindedness, childlike wonder, embracing the unknown.",
+            "Financial/Career Meaning": "New opportunities, unconventional paths, risk-taking in ventures.",
+            "Love/Relationships": "Spontaneous connections, carefree romance, openness to new love.",
+            "Spiritual Meaning": "Trust in the universe, spiritual exploration, embracing the journey.",
+            "Advice/Actionable Guidance": "Embrace new experiences, take a leap of faith, stay open to possibilities.",
+            "Timeline/Timing/Season/Month": "New starts / Days to Weeks / Spring / Astrological Sign: Uranus / Planet: Uranus",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Recklessness, naivety, hesitation, fear of change, lack of direction.",
+            "Mental/Emotional Aspects": "Fear of the unknown, scattered thoughts, impulsiveness.",
+            "Financial/Career Meaning": "Poor planning, risky ventures failing, lack of focus in career.",
+            "Love/Relationships": "Fear of commitment, reckless behavior in relationships, instability.",
+            "Spiritual Meaning": "Disconnected from intuition, resisting spiritual growth.",
+            "Advice/Actionable Guidance": "Pause and reflect, avoid impulsive decisions, clarify your direction.",
+            "Timeline/Timing/Season/Month": "Delays or setbacks / Weeks to Months / Spring / Astrological Sign: Uranus / Planet: Uranus",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "The Magician": {
+        "upright": {
+            "General Meaning": "Manifestation, skill, resourcefulness, power, inspired action.",
+            "Mental/Emotional Aspects": "Confidence, focus, clarity of purpose, creative thinking.",
+            "Financial/Career Meaning": "Mastery of skills, entrepreneurial success, turning ideas into reality.",
+            "Love/Relationships": "Charisma, attraction, taking initiative in relationships.",
+            "Spiritual Meaning": "Aligning with divine energy, channeling higher wisdom.",
+            "Advice/Actionable Guidance": "Use your skills and resources, take decisive action, believe in your abilities.",
+            "Timeline/Timing/Season/Month": "Quick action / Days to Weeks / Spring / Astrological Sign: Mercury / Planet: Mercury",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Manipulation, lack of focus, unused potential, trickery.",
+            "Mental/Emotional Aspects": "Self-doubt, scattered energy, lack of confidence.",
+            "Financial/Career Meaning": "Missed opportunities, poor planning, deceit in business.",
+            "Love/Relationships": "Dishonesty, manipulation, lack of commitment in romance.",
+            "Spiritual Meaning": "Blocked intuition, misalignment with higher purpose.",
+            "Advice/Actionable Guidance": "Refocus your energy, avoid shortcuts, be honest with yourself.",
+            "Timeline/Timing/Season/Month": "Delays / Weeks to Months / Spring / Astrological Sign: Mercury / Planet: Mercury",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "The High Priestess": {
+        "upright": {
+            "General Meaning": "Intuition, mystery, subconscious, inner wisdom, spiritual insight.",
+            "Mental/Emotional Aspects": "Trusting instincts, inner reflection, emotional depth.",
+            "Financial/Career Meaning": "Hidden opportunities, trusting gut in decisions, patience needed.",
+            "Love/Relationships": "Deep emotional connection, intuitive understanding, unspoken bonds.",
+            "Spiritual Meaning": "Accessing higher wisdom, exploring the subconscious, spiritual awakening.",
+            "Advice/Actionable Guidance": "Listen to your intuition, embrace silence, trust the unseen.",
+            "Timeline/Timing/Season/Month": "Slow unfolding / Weeks to Months / Night, Autumn / Astrological Sign: Moon / Planet: Moon",
+            "Yes/No/Maybe": "Maybe"
+        },
+        "reversed": {
+            "General Meaning": "Blocked intuition, secrets, disconnection from self, superficiality.",
+            "Mental/Emotional Aspects": "Ignoring instincts, emotional confusion, self-doubt.",
+            "Financial/Career Meaning": "Hidden agendas, lack of clarity in decisions, missed insights.",
+            "Love/Relationships": "Dishonesty, emotional distance, suppressed feelings.",
+            "Spiritual Meaning": "Spiritual disconnection, ignoring inner voice.",
+            "Advice/Actionable Guidance": "Reconnect with your intuition, seek clarity, avoid ignoring signs.",
+            "Timeline/Timing/Season/Month": "Delays or confusion / Months / Night, Autumn / Astrological Sign: Moon / Planet: Moon",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "The Empress": {
+        "upright": {
+            "General Meaning": "Abundance, nurturing, fertility, creativity, beauty, feminine energy.",
+            "Mental/Emotional Aspects": "Self-love, emotional warmth, nurturing mindset.",
+            "Financial/Career Meaning": "Prosperity, creative projects thriving, supportive work environment.",
+            "Love/Relationships": "Loving relationships, nurturing partnerships, deep emotional bonds.",
+            "Spiritual Meaning": "Connection to nature, divine feminine, creative spiritual expression.",
+            "Advice/Actionable Guidance": "Nurture yourself and others, embrace creativity, cultivate abundance.",
+            "Timeline/Timing/Season/Month": "Growth period / Weeks to Months / Spring, Summer / Astrological Sign: Venus / Planet: Venus",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Neglect, creative block, dependency, lack of nurturing, stagnation.",
+            "Mental/Emotional Aspects": "Low self-esteem, emotional neglect, feeling unappreciated.",
+            "Financial/Career Meaning": "Financial stagnation, creative blocks, unsupportive workplace.",
+            "Love/Relationships": "Neediness, unbalanced relationships, emotional disconnection.",
+            "Spiritual Meaning": "Disconnected from feminine energy, lack of spiritual creativity.",
+            "Advice/Actionable Guidance": "Prioritize self-care, reconnect with creativity, nurture yourself.",
+            "Timeline/Timing/Season/Month": "Stagnant period / Weeks to Months / Spring, Summer / Astrological Sign: Venus / Planet: Venus",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "The Emperor": {
+        "upright": {
+            "General Meaning": "Authority, structure, control, discipline, masculine energy, leadership.",
+            "Mental/Emotional Aspects": "Confidence, logical thinking, self-discipline.",
+            "Financial/Career Meaning": "Stability, leadership roles, structured career growth.",
+            "Love/Relationships": "Stable relationships, protective partners, clear boundaries.",
+            "Spiritual Meaning": "Order in spiritual practice, grounding divine energy.",
+            "Advice/Actionable Guidance": "Establish structure, take control, lead with confidence.",
+            "Timeline/Timing/Season/Month": "Long-term stability / Months to Years / Spring / Astrological Sign: Aries / Planet: Mars",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Rigidity, control issues, lack of discipline, domineering behavior.",
+            "Mental/Emotional Aspects": "Inflexibility, emotional repression, authoritarian mindset.",
+            "Financial/Career Meaning": "Unstable leadership, micromanagement, career rigidity.",
+            "Love/Relationships": "Controlling relationships, lack of emotional warmth, power struggles.",
+            "Spiritual Meaning": "Spiritual rigidity, lack of flow, resistance to divine guidance.",
+            "Advice/Actionable Guidance": "Embrace flexibility, release control, foster cooperation.",
+            "Timeline/Timing/Season/Month": "Disrupted stability / Weeks to Months / Spring / Astrological Sign: Aries / Planet: Mars",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "The Hierophant": {
+        "upright": {
+            "General Meaning": "Tradition, conformity, spirituality, guidance, moral values.",
+            "Mental/Emotional Aspects": "Seeking wisdom, adherence to beliefs, inner peace through structure.",
+            "Financial/Career Meaning": "Conventional career paths, mentorship, institutional stability.",
+            "Love/Relationships": "Traditional relationships, commitment, shared values.",
+            "Spiritual Meaning": "Spiritual guidance, connection to tradition, sacred rituals.",
+            "Advice/Actionable Guidance": "Seek guidance from mentors, honor traditions, align with values.",
+            "Timeline/Timing/Season/Month": "Long-term commitment / Months to Years / Spring / Astrological Sign: Taurus / Planet: Venus",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Rebellion, nonconformity, questioning tradition, rigidity.",
+            "Mental/Emotional Aspects": "Inner conflict, rejecting guidance, feeling restricted.",
+            "Financial/Career Meaning": "Unconventional career paths, resisting mentorship, instability.",
+            "Love/Relationships": "Unorthodox relationships, resistance to commitment, conflicting values.",
+            "Spiritual Meaning": "Spiritual rebellion, rejecting traditional paths, seeking personal truth.",
+            "Advice/Actionable Guidance": "Question rigid beliefs, find your own path, balance freedom and guidance.",
+            "Timeline/Timing/Season/Month": "Unsettled period / Weeks to Months / Spring / Astrological Sign: Taurus / Planet: Venus",
+            "Yes/No/Maybe": "Maybe"
+        }
+    },
+    "The Lovers": {
+        "upright": {
+            "General Meaning": "Love, harmony, partnerships, choices, alignment, union.",
+            "Mental/Emotional Aspects": "Emotional balance, mutual understanding, heartfelt decisions.",
+            "Financial/Career Meaning": "Collaborative ventures, aligned career choices, partnerships.",
+            "Love/Relationships": "Deep love, soulmate connections, mutual respect, commitment.",
+            "Spiritual Meaning": "Divine union, alignment with higher self, spiritual partnerships.",
+            "Advice/Actionable Guidance": "Follow your heart, make choices aligned with your values, foster harmony.",
+            "Timeline/Timing/Season/Month": "Significant connections / Weeks to Months / Spring, Summer / Astrological Sign: Gemini / Planet: Mercury",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Disharmony, imbalance, misalignment, poor choices, conflict.",
+            "Mental/Emotional Aspects": "Emotional discord, indecision, lack of clarity.",
+            "Financial/Career Meaning": "Conflicting partnerships, misaligned career goals, poor decisions.",
+            "Love/Relationships": "Relationship conflicts, lack of mutual respect, disconnection.",
+            "Spiritual Meaning": "Spiritual disharmony, misalignment with higher self, karmic lessons.",
+            "Advice/Actionable Guidance": "Reevaluate choices, seek harmony, align with your values.",
+            "Timeline/Timing/Season/Month": "Conflicted period / Weeks to Months / Spring, Summer / Astrological Sign: Gemini / Planet: Mercury",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "The Chariot": {
+        "upright": {
+            "General Meaning": "Willpower, determination, victory, control, direction, success.",
+            "Mental/Emotional Aspects": "Focus, confidence, disciplined mindset, overcoming obstacles.",
+            "Financial/Career Meaning": "Career advancement, driven success, overcoming challenges.",
+            "Love/Relationships": "Determination in relationships, moving forward together, mutual goals.",
+            "Spiritual Meaning": "Mastery over inner conflicts, spiritual direction, triumph of will.",
+            "Advice/Actionable Guidance": "Stay focused, harness your willpower, charge toward your goals.",
+            "Timeline/Timing/Season/Month": "Swift progress / Days to Weeks / Summer / Astrological Sign: Cancer / Planet: Moon",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Lack of control, aggression, scattered energy, failure, delays.",
+            "Mental/Emotional Aspects": "Frustration, lack of focus, impulsive behavior.",
+            "Financial/Career Meaning": "Career setbacks, lack of direction, stalled progress.",
+            "Love/Relationships": "Clashing goals, lack of cooperation, relationship struggles.",
+            "Spiritual Meaning": "Spiritual misalignment, lack of inner control, ego-driven actions.",
+            "Advice/Actionable Guidance": "Regain focus, avoid aggression, realign your direction.",
+            "Timeline/Timing/Season/Month": "Delays / Weeks to Months / Summer / Astrological Sign: Cancer / Planet: Moon",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Strength": {
+        "upright": {
+            "General Meaning": "Courage, inner strength, compassion, patience, control, resilience.",
+            "Mental/Emotional Aspects": "Emotional resilience, calm confidence, self-assurance.",
+            "Financial/Career Meaning": "Overcoming challenges, steady progress, confident leadership.",
+            "Love/Relationships": "Compassionate relationships, mutual support, emotional strength.",
+            "Spiritual Meaning": "Inner power, spiritual fortitude, aligning strength with compassion.",
+            "Advice/Actionable Guidance": "Tap into your inner strength, approach challenges with patience, show compassion.",
+            "Timeline/Timing/Season/Month": "Steady progress / Weeks to Months / Summer / Astrological Sign: Leo / Planet: Sun",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Weakness, self-doubt, lack of courage, impatience, insecurity.",
+            "Mental/Emotional Aspects": "Low confidence, emotional fragility, inner turmoil.",
+            "Financial/Career Meaning": "Career insecurities, lack of resilience, professional setbacks.",
+            "Love/Relationships": "Insecure relationships, lack of emotional strength, dependency.",
+            "Spiritual Meaning": "Spiritual weakness, disconnection from inner power, lack of faith.",
+            "Advice/Actionable Guidance": "Build inner strength, practice patience, confront insecurities.",
+            "Timeline/Timing/Season/Month": "Challenging period / Weeks to Months / Summer / Astrological Sign: Leo / Planet: Sun",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "The Hermit": {
+        "upright": {
+            "General Meaning": "Introspection, solitude, inner guidance, wisdom, soul-searching.",
+            "Mental/Emotional Aspects": "Self-reflection, inner peace, seeking truth within.",
+            "Financial/Career Meaning": "Pause for reflection, reassessing career goals, seeking mentorship.",
+            "Love/Relationships": "Needing space, self-discovery before connection, introspective love.",
+            "Spiritual Meaning": "Deep spiritual insight, connection to inner wisdom, meditation.",
+            "Advice/Actionable Guidance": "Take time for solitude, seek inner wisdom, reflect before acting.",
+            "Timeline/Timing/Season/Month": "Slow introspection / Months / Autumn, Winter / Astrological Sign: Virgo / Planet: Mercury",
+            "Yes/No/Maybe": "Maybe"
+        },
+        "reversed": {
+            "General Meaning": "Isolation, loneliness, withdrawal, lack of guidance, rejection.",
+            "Mental/Emotional Aspects": "Loneliness, disconnection, fear of introspection.",
+            "Financial/Career Meaning": "Career isolation, lack of mentorship, stalled progress.",
+            "Love/Relationships": "Emotional withdrawal, fear of intimacy, relationship distance.",
+            "Spiritual Meaning": "Spiritual disconnection, avoiding inner truth, lost guidance.",
+            "Advice/Actionable Guidance": "Seek connection, embrace introspection, find guidance.",
+            "Timeline/Timing/Season/Month": "Isolated period / Weeks to Months / Autumn, Winter / Astrological Sign: Virgo / Planet: Mercury",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Wheel of Fortune": {
+        "upright": {
+            "General Meaning": "Luck, cycles, change, destiny, turning points, opportunity.",
+            "Mental/Emotional Aspects": "Optimism, adaptability, embracing change.",
+            "Financial/Career Meaning": "Unexpected opportunities, financial upturns, career shifts.",
+            "Love/Relationships": "Fated connections, relationship changes, positive shifts.",
+            "Spiritual Meaning": "Trusting the universe, embracing life’s cycles, spiritual growth.",
+            "Advice/Actionable Guidance": "Go with the flow, seize opportunities, trust in life’s timing.",
+            "Timeline/Timing/Season/Month": "Sudden change / Days to Weeks / All Seasons / Astrological Sign: Jupiter / Planet: Jupiter",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Bad luck, resistance to change, setbacks, loss of control.",
+            "Mental/Emotional Aspects": "Frustration, fear of change, lack of adaptability.",
+            "Financial/Career Meaning": "Financial downturns, missed opportunities, career stagnation.",
+            "Love/Relationships": "Unfavorable changes, relationship instability, resistance to growth.",
+            "Spiritual Meaning": "Spiritual resistance, karmic delays, lack of trust in universe.",
+            "Advice/Actionable Guidance": "Adapt to change, release resistance, trust in cycles.",
+            "Timeline/Timing/Season/Month": "Setback period / Weeks to Months / All Seasons / Astrological Sign: Jupiter / Planet: Jupiter",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Justice": {
+        "upright": {
+            "General Meaning": "Fairness, truth, balance, accountability, cause and effect.",
+            "Mental/Emotional Aspects": "Clarity, objective thinking, seeking truth.",
+            "Financial/Career Meaning": "Fair outcomes, contracts, balanced financial decisions.",
+            "Love/Relationships": "Honesty, mutual respect, balanced partnerships.",
+            "Spiritual Meaning": "Karmic balance, spiritual truth, aligning with integrity.",
+            "Advice/Actionable Guidance": "Act with integrity, seek fairness, accept consequences of actions.",
+            "Timeline/Timing/Season/Month": "Resolution / Weeks to Months / Autumn / Astrological Sign: Libra / Planet: Venus",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Injustice, dishonesty, imbalance, lack of accountability.",
+            "Mental/Emotional Aspects": "Bias, unfair judgment, emotional imbalance.",
+            "Financial/Career Meaning": "Unfair contracts, financial dishonesty, career imbalances.",
+            "Love/Relationships": "Dishonesty in relationships, unfair treatment, lack of respect.",
+            "Spiritual Meaning": "Karmic imbalance, avoiding truth, spiritual dishonesty.",
+            "Advice/Actionable Guidance": "Seek fairness, confront dishonesty, restore balance.",
+            "Timeline/Timing/Season/Month": "Unresolved period / Weeks to Months / Autumn / Astrological Sign: Libra / Planet: Venus",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "The Hanged Man": {
+        "upright": {
+            "General Meaning": "Surrender, sacrifice, pause, new perspective, letting go.",
+            "Mental/Emotional Aspects": "Acceptance, patience, seeing things differently.",
+            "Financial/Career Meaning": "Stagnation, need for patience, reevaluating career path.",
+            "Love/Relationships": "Letting go of control, patience in relationships, self-sacrifice.",
+            "Spiritual Meaning": "Spiritual surrender, embracing stillness, gaining insight.",
+            "Advice/Actionable Guidance": "Embrace pause, shift perspective, let go of resistance.",
+            "Timeline/Timing/Season/Month": "Limbo or pause / Months / Autumn, Winter / Astrological Sign: Neptune / Planet: Neptune",
+            "Yes/No/Maybe": "Maybe"
+        },
+        "reversed": {
+            "General Meaning": "Stagnation, resistance, fear of sacrifice, indecision, delays.",
+            "Mental/Emotional Aspects": "Frustration, avoidance, lack of perspective.",
+            "Financial/Career Meaning": "Career stagnation, fear of change, delayed progress.",
+            "Love/Relationships": "Stalled relationships, fear of letting go, emotional limbo.",
+            "Spiritual Meaning": "Spiritual stagnation, resistance to surrender, blocked insights.",
+            "Advice/Actionable Guidance": "Embrace change, release resistance, seek new perspectives.",
+            "Timeline/Timing/Season/Month": "Stagnant period / Weeks to Months / Autumn, Winter / Astrological Sign: Neptune / Planet: Neptune",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Death": {
+        "upright": {
+            "General Meaning": "Transformation, endings, new beginnings, change, release.",
+            "Mental/Emotional Aspects": "Letting go of old patterns, emotional renewal, acceptance.",
+            "Financial/Career Meaning": "Career transitions, financial restructuring, ending of old ventures.",
+            "Love/Relationships": "End of unhealthy relationships, transformation in love, new romantic phases.",
+            "Spiritual Meaning": "Spiritual rebirth, shedding ego, embracing change.",
+            "Advice/Actionable Guidance": "Embrace change, release the old, welcome transformation.",
+            "Timeline/Timing/Season/Month": "Major shift / Weeks to Months / Autumn / Astrological Sign: Scorpio / Planet: Pluto",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Resistance to change, stagnation, fear of endings, holding on.",
+            "Mental/Emotional Aspects": "Fear of loss, emotional clinging, refusal to move forward.",
+            "Financial/Career Meaning": "Stalled career transitions, financial stagnation, fear of change.",
+            "Love/Relationships": "Clinging to unhealthy relationships, fear of moving on, stagnation.",
+            "Spiritual Meaning": "Spiritual resistance, avoiding transformation, karmic delays.",
+            "Advice/Actionable Guidance": "Let go of the past, embrace change, allow transformation.",
+            "Timeline/Timing/Season/Month": "Stagnant period / Weeks to Months / Autumn / Astrological Sign: Scorpio / Planet: Pluto",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Temperance": {
+        "upright": {
+            "General Meaning": "Balance, moderation, harmony, patience, alchemy, healing.",
+            "Mental/Emotional Aspects": "Emotional stability, calm mindset, finding middle ground.",
+            "Financial/Career Meaning": "Balanced finances, steady career progress, collaborative work.",
+            "Love/Relationships": "Harmonious relationships, mutual understanding, patience in love.",
+            "Spiritual Meaning": "Spiritual balance, blending energies, inner peace.",
+            "Advice/Actionable Guidance": "Seek balance, practice patience, harmonize opposing forces.",
+            "Timeline/Timing/Season/Month": "Gradual progress / Months / Autumn / Astrological Sign: Sagittarius / Planet: Jupiter",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Imbalance, excess, impatience, disharmony, lack of moderation.",
+            "Mental/Emotional Aspects": "Emotional extremes, impatience, lack of balance.",
+            "Financial/Career Meaning": "Financial imbalance, rushed decisions, career disharmony.",
+            "Love/Relationships": "Unbalanced relationships, lack of patience, emotional discord.",
+            "Spiritual Meaning": "Spiritual disharmony, lack of inner peace, unbalanced energies.",
+            "Advice/Actionable Guidance": "Restore balance, practice moderation, seek harmony.",
+            "Timeline/Timing/Season/Month": "Imbalanced period / Weeks to Months / Autumn / Astrological Sign: Sagittarius / Planet: Jupiter",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "The Devil": {
+        "upright": {
+            "General Meaning": "Addiction, bondage, materialism, temptation, shadow self.",
+            "Mental/Emotional Aspects": "Obsession, fear, unhealthy attachments, self-destructive patterns.",
+            "Financial/Career Meaning": "Greed, unethical practices, feeling trapped in job.",
+            "Love/Relationships": "Toxic relationships, codependency, lust over love.",
+            "Spiritual Meaning": "Confronting shadow self, breaking free from illusions.",
+            "Advice/Actionable Guidance": "Recognize unhealthy patterns, seek freedom, confront your shadow.",
+            "Timeline/Timing/Season/Month": "Entrapment period / Months / Winter / Astrological Sign: Capricorn / Planet: Saturn",
+            "Yes/No/Maybe": "No"
+        },
+        "reversed": {
+            "General Meaning": "Freedom from bondage, breaking free, overcoming addiction, liberation.",
+            "Mental/Emotional Aspects": "Releasing fears, overcoming unhealthy patterns, empowerment.",
+            "Financial/Career Meaning": "Escaping toxic work, financial freedom, ethical choices.",
+            "Love/Relationships": "Breaking free from toxic relationships, reclaiming independence.",
+            "Spiritual Meaning": "Spiritual liberation, overcoming shadow self, divine freedom.",
+            "Advice/Actionable Guidance": "Break free from limitations, reclaim your power, seek liberation.",
+            "Timeline/Timing/Season/Month": "Liberation period / Weeks to Months / Winter / Astrological Sign: Capricorn / Planet: Saturn",
+            "Yes/No/Maybe": "Yes"
+        }
+    },
+    "The Tower": {
+        "upright": {
+            "General Meaning": "Sudden change, upheaval, chaos, revelation, awakening.",
+            "Mental/Emotional Aspects": "Shock, disruption, breaking illusions, emotional upheaval.",
+            "Financial/Career Meaning": "Unexpected job loss, financial collapse, restructuring.",
+            "Love/Relationships": "Breakups, revelations, relationship upheaval, truth revealed.",
+            "Spiritual Meaning": "Spiritual awakening, breaking ego structures, divine intervention.",
+            "Advice/Actionable Guidance": "Embrace change, let go of illusions, rebuild stronger foundations.",
+            "Timeline/Timing/Season/Month": "Sudden disruption / Days to Weeks / All Seasons / Astrological Sign: Mars / Planet: Mars",
+            "Yes/No/Maybe": "No"
+        },
+        "reversed": {
+            "General Meaning": "Avoiding change, fear of upheaval, clinging to illusions, denial.",
+            "Mental/Emotional Aspects": "Fear of disruption, denial, resistance to truth.",
+            "Financial/Career Meaning": "Avoiding career changes, financial denial, unstable foundations.",
+            "Love/Relationships": "Clinging to failing relationships, avoiding truth, denial in love.",
+            "Spiritual Meaning": "Spiritual denial, resisting awakening, clinging to ego.",
+            "Advice/Actionable Guidance": "Face the truth, embrace change, let go of denial.",
+            "Timeline/Timing/Season/Month": "Resistant period / Weeks to Months / All Seasons / Astrological Sign: Mars / Planet: Mars",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "The Star": {
+        "upright": {
+            "General Meaning": "Hope, inspiration, healing, renewal, serenity, guidance.",
+            "Mental/Emotional Aspects": "Optimism, emotional healing, renewed confidence.",
+            "Financial/Career Meaning": "Positive opportunities, career recovery, financial hope.",
+            "Love/Relationships": "Healing in relationships, renewed trust, hopeful connections.",
+            "Spiritual Meaning": "Divine guidance, spiritual renewal, connection to higher self.",
+            "Advice/Actionable Guidance": "Embrace hope, trust in healing, follow your inner light.",
+            "Timeline/Timing/Season/Month": "Recovery phase / Weeks to Months / Winter / Astrological Sign: Aquarius / Planet: Uranus",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Hopelessness, despair, lack of faith, blocked healing, cynicism.",
+            "Mental/Emotional Aspects": "Pessimism, emotional stagnation, lack of confidence.",
+            "Financial/Career Meaning": "Career setbacks, financial despair, lack of opportunities.",
+            "Love/Relationships": "Lack of trust, emotional disconnection, hopeless relationships.",
+            "Spiritual Meaning": "Spiritual disconnection, lack of divine guidance, blocked renewal.",
+            "Advice/Actionable Guidance": "Rekindle hope, seek healing, trust in recovery.",
+            "Timeline/Timing/Season/Month": "Hopeless period / Weeks to Months / Winter / Astrological Sign: Aquarius / Planet: Uranus",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "The Moon": {
+        "upright": {
+            "General Meaning": "Illusion, fear, anxiety, subconscious, intuition, deception, dreams.",
+            "Mental/Emotional Aspects": "Confusion, anxiety, hidden fears, relying on intuition over logic.",
+            "Financial/Career Meaning": "Uncertainty about career/finances, hidden factors, potential deception.",
+            "Love/Relationships": "Insecurity, unclear relationship status, hidden emotions, potential deception.",
+            "Spiritual Meaning": "Navigating the subconscious, dream work, trusting intuition amidst uncertainty.",
+            "Advice/Actionable Guidance": "Trust your intuition, face your fears, look beyond illusions.",
+            "Timeline/Timing/Season/Month": "Period of uncertainty and fluctuation / Weeks to Months, tied to lunar cycles / Night time, Winter / Astrological Sign: Pisces / Planet: Neptune (associated)",
+            "Yes/No/Maybe": "Maybe (unclear, uncertain)"
+        },
+        "reversed": {
+            "General Meaning": "Clarity, overcoming fear, truth revealed, conscious awareness, stability.",
+            "Mental/Emotional Aspects": "Clear thinking, reduced anxiety, emotional stability.",
+            "Financial/Career Meaning": "Clear financial decisions, resolving uncertainties, honest dealings.",
+            "Love/Relationships": "Clear communication, emotional honesty, resolved insecurities.",
+            "Spiritual Meaning": "Spiritual clarity, conscious awareness, overcoming illusions.",
+            "Advice/Actionable Guidance": "Embrace clarity, confront illusions, trust in truth.",
+            "Timeline/Timing/Season/Month": "Clearing period / Weeks to Months, tied to lunar cycles / Night time, Winter / Astrological Sign: Pisces / Planet: Neptune (associated)",
+            "Yes/No/Maybe": "Yes"
+        }
+    },
+    "The Sun": {
+        "upright": {
+            "General Meaning": "Joy, success, vitality, positivity, clarity, abundance.",
+            "Mental/Emotional Aspects": "Happiness, confidence, emotional warmth, optimism.",
+            "Financial/Career Meaning": "Career success, financial abundance, thriving ventures.",
+            "Love/Relationships": "Joyful relationships, mutual happiness, strong connections.",
+            "Spiritual Meaning": "Divine light, spiritual clarity, connection to life force.",
+            "Advice/Actionable Guidance": "Embrace positivity, share your light, celebrate success.",
+            "Timeline/Timing/Season/Month": "Peak success / Days to Weeks / Summer / Astrological Sign: Sun / Planet: Sun",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Sadness, lack of clarity, low energy, failure, negativity.",
+            "Mental/Emotional Aspects": "Depression, lack of confidence, emotional gloom.",
+            "Financial/Career Meaning": "Career failures, financial struggles, lack of success.",
+            "Love/Relationships": "Unhappy relationships, lack of warmth, emotional distance.",
+            "Spiritual Meaning": "Spiritual disconnection, lack of divine light, inner darkness.",
+            "Advice/Actionable Guidance": "Seek positivity, address negativity, reconnect with joy.",
+            "Timeline/Timing/Season/Month": "Challenging period / Weeks to Months / Summer / Astrological Sign: Sun / Planet: Sun",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Judgement": {
+        "upright": {
+            "General Meaning": "Awakening, rebirth, inner calling, judgment, transformation.",
+            "Mental/Emotional Aspects": "Self-reflection, clarity of purpose, emotional renewal.",
+            "Financial/Career Meaning": "Career calling, major decisions, professional transformation.",
+            "Love/Relationships": "Renewed commitment, soul-level connections, relationship rebirth.",
+            "Spiritual Meaning": "Spiritual awakening, answering higher calling, karmic resolution.",
+            "Advice/Actionable Guidance": "Listen to your inner calling, embrace transformation, make decisive choices.",
+            "Timeline/Timing/Season/Month": "Major awakening / Weeks to Months / All Seasons / Astrological Sign: Pluto / Planet: Pluto",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Self-doubt, stagnation, refusal to change, ignoring calling, denial.",
+            "Mental/Emotional Aspects": "Fear of judgment, lack of clarity, emotional avoidance.",
+            "Financial/Career Meaning": "Career stagnation, avoiding decisions, missed callings.",
+            "Love/Relationships": "Fear of commitment, stalled relationships, avoiding truth.",
+            "Spiritual Meaning": "Spiritual stagnation, ignoring higher calling, karmic avoidance.",
+            "Advice/Actionable Guidance": "Listen to your inner voice, embrace change, face judgment.",
+            "Timeline/Timing/Season/Month": "Stagnant period / Weeks to Months / All Seasons / Astrological Sign: Pluto / Planet: Pluto",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "The World": {
+        "upright": {
+            "General Meaning": "Completion, fulfillment, harmony, achievement, integration, travel.",
+            "Mental/Emotional Aspects": "Inner peace, satisfaction, emotional wholeness.",
+            "Financial/Career Meaning": "Career fulfillment, financial stability, global opportunities.",
+            "Love/Relationships": "Harmonious relationships, soulmate connections, mutual fulfillment.",
+            "Spiritual Meaning": "Spiritual completion, universal connection, cosmic harmony.",
+            "Advice/Actionable Guidance": "Celebrate achievements, embrace wholeness, prepare for new cycles.",
+            "Timeline/Timing/Season/Month": "Cycle completion / Months to Years / All Seasons / Astrological Sign: Saturn / Planet: Saturn",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Incompletion, lack of closure, stagnation, unfulfilled goals.",
+            "Mental/Emotional Aspects": "Frustration, lack of fulfillment, emotional disconnection.",
+            "Financial/Career Meaning": "Unfinished projects, financial instability, career delays.",
+            "Love/Relationships": "Unfulfilled relationships, lack of harmony, stalled connections.",
+            "Spiritual Meaning": "Spiritual incompletion, lack of universal connection, karmic delays.",
+            "Advice/Actionable Guidance": "Complete unfinished tasks, seek closure, embrace new cycles.",
+            "Timeline/Timing/Season/Month": "Incomplete period / Weeks to Months / All Seasons / Astrological Sign: Saturn / Planet: Saturn",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Ace of Wands": {
+        "upright": {
+            "General Meaning": "Inspiration, new beginnings, creativity, passion, potential.",
+            "Mental/Emotional Aspects": "Excitement, enthusiasm, creative spark.",
+            "Financial/Career Meaning": "New ventures, entrepreneurial opportunities, creative projects.",
+            "Love/Relationships": "Passionate connections, new romantic sparks, excitement in love.",
+            "Spiritual Meaning": "Spiritual inspiration, igniting inner fire, creative energy.",
+            "Advice/Actionable Guidance": "Seize new opportunities, channel your passion, act on inspiration.",
+            "Timeline/Timing/Season/Month": "Quick start / Days to Weeks / Spring / Element: Fire",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Lack of passion, missed opportunities, blocked creativity, delays.",
+            "Mental/Emotional Aspects": "Apathy, lack of motivation, uninspired mindset.",
+            "Financial/Career Meaning": "Failed ventures, lack of initiative, stalled projects.",
+            "Love/Relationships": "Lack of spark, stalled romance, emotional disconnection.",
+            "Spiritual Meaning": "Blocked spiritual energy, lack of inspiration, disconnected passion.",
+            "Advice/Actionable Guidance": "Rekindle your passion, seek inspiration, overcome apathy.",
+            "Timeline/Timing/Season/Month": "Delayed start / Weeks to Months / Spring / Element: Fire",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Two of Wands": {
+        "upright": {
+            "General Meaning": "Planning, decisions, discovery, ambition, vision.",
+            "Mental/Emotional Aspects": "Confidence, forward-thinking, weighing options.",
+            "Financial/Career Meaning": "Strategic planning, career expansion, bold choices.",
+            "Love/Relationships": "Planning future together, exploring relationship potential, mutual goals.",
+            "Spiritual Meaning": "Visionary insight, aligning with higher purpose, spiritual ambition.",
+            "Advice/Actionable Guidance": "Plan carefully, make bold decisions, expand your horizons.",
+            "Timeline/Timing/Season/Month": "Decision-making period / Weeks to Months / Spring / Element: Fire",
+            "Yes/No/Maybe": "Maybe"
+        },
+        "reversed": {
+            "General Meaning": "Indecision, fear of change, lack of planning, stagnation.",
+            "Mental/Emotional Aspects": "Fear of risk, lack of vision, mental paralysis.",
+            "Financial/Career Meaning": "Missed opportunities, stalled expansion, poor planning.",
+            "Love/Relationships": "Fear of commitment, stalled plans, lack of mutual goals.",
+            "Spiritual Meaning": "Spiritual hesitation, lack of vision, blocked ambition.",
+            "Advice/Actionable Guidance": "Make a decision, plan strategically, overcome fear.",
+            "Timeline/Timing/Season/Month": "Stagnant period / Weeks to Months / Spring / Element: Fire",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Three of Wands": {
+        "upright": {
+            "General Meaning": "Expansion, exploration, foresight, progress, opportunity.",
+            "Mental/Emotional Aspects": "Optimism, anticipation, visionary thinking.",
+            "Financial/Career Meaning": "Business growth, global opportunities, successful ventures.",
+            "Love/Relationships": "Growing relationships, shared adventures, mutual aspirations.",
+            "Spiritual Meaning": "Spiritual expansion, embracing new horizons, higher perspective.",
+            "Advice/Actionable Guidance": "Explore new possibilities, trust your vision, embrace growth.",
+            "Timeline/Timing/Season/Month": "Steady progress / Weeks to Months / Spring / Element: Fire",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Delays, lack of progress, missed opportunities, frustration.",
+            "Mental/Emotional Aspects": "Impatience, disappointment, lack of foresight.",
+            "Financial/Career Meaning": "Stalled ventures, failed expansion, lack of growth.",
+            "Love/Relationships": "Delayed progress, lack of shared vision, relationship stagnation.",
+            "Spiritual Meaning": "Blocked spiritual growth, lack of expansion, karmic delays.",
+            "Advice/Actionable Guidance": "Be patient, reassess plans, trust in timing.",
+            "Timeline/Timing/Season/Month": "Delayed progress / Weeks to Months / Spring / Element: Fire",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Four of Wands": {
+        "upright": {
+            "General Meaning": "Celebration, stability, community, harmony, homecoming.",
+            "Mental/Emotional Aspects": "Joy, contentment, sense of belonging.",
+            "Financial/Career Meaning": "Stable career, successful milestones, team harmony.",
+            "Love/Relationships": "Happy relationships, commitments, family harmony.",
+            "Spiritual Meaning": "Spiritual community, grounded joy, divine celebration.",
+            "Advice/Actionable Guidance": "Celebrate achievements, strengthen community, enjoy stability.",
+            "Timeline/Timing/Season/Month": "Joyful period / Days to Weeks / Spring, Summer / Element: Fire",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Instability, lack of harmony, disrupted celebrations, tension.",
+            "Mental/Emotional Aspects": "Discontent, lack of belonging, emotional unrest.",
+            "Financial/Career Meaning": "Unstable career, team conflicts, lack of recognition.",
+            "Love/Relationships": "Strained relationships, lack of commitment, family discord.",
+            "Spiritual Meaning": "Spiritual disconnection, lack of community, divine unrest.",
+            "Advice/Actionable Guidance": "Resolve conflicts, rebuild harmony, strengthen connections.",
+            "Timeline/Timing/Season/Month": "Unstable period / Weeks to Months / Spring, Summer / Element: Fire",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Five of Wands": {
+        "upright": {
+            "General Meaning": "Conflict, competition, tension, struggle, rivalry.",
+            "Mental/Emotional Aspects": "Frustration, clashing egos, competitive mindset.",
+            "Financial/Career Meaning": "Workplace rivalry, conflicting goals, chaotic projects.",
+            "Love/Relationships": "Arguments, power struggles, lack of cooperation.",
+            "Spiritual Meaning": "Inner conflict, spiritual tension, ego-driven struggles.",
+            "Advice/Actionable Guidance": "Find common ground, manage conflicts, focus on collaboration.",
+            "Timeline/Timing/Season/Month": "Conflict period / Weeks to Months / Summer / Element: Fire",
+            "Yes/No/Maybe": "No"
+        },
+        "reversed": {
+            "General Meaning": "Resolution of conflict, cooperation, finding common ground, harmony.",
+            "Mental/Emotional Aspects": "Calm resolution, reduced tension, collaborative mindset.",
+            "Financial/Career Meaning": "Resolved workplace conflicts, team harmony, cooperative projects.",
+            "Love/Relationships": "Reconciled arguments, mutual cooperation, restored harmony.",
+            "Spiritual Meaning": "Spiritual harmony, resolved inner conflict, divine cooperation.",
+            "Advice/Actionable Guidance": "Seek cooperation, resolve conflicts, focus on teamwork.",
+            "Timeline/Timing/Season/Month": "Harmonious period / Weeks to Months / Summer / Element: Fire",
+            "Yes/No/Maybe": "Yes"
+        }
+    },
+    "Six of Wands": {
+        "upright": {
+            "General Meaning": "Victory, success, recognition, confidence, achievement.",
+            "Mental/Emotional Aspects": "Pride, self-assurance, public acclaim.",
+            "Financial/Career Meaning": "Career success, promotions, public recognition.",
+            "Love/Relationships": "Admiration in relationships, mutual pride, celebrated love.",
+            "Spiritual Meaning": "Spiritual triumph, recognition of inner growth, divine approval.",
+            "Advice/Actionable Guidance": "Celebrate your success, accept recognition, stay confident.",
+            "Timeline/Timing/Season/Month": "Victory phase / Days to Weeks / Summer / Element: Fire",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Lack of recognition, failure, ego conflicts, setbacks.",
+            "Mental/Emotional Aspects": "Low confidence, disappointment, wounded pride.",
+            "Financial/Career Meaning": "Career setbacks, lack of success, missed promotions.",
+            "Love/Relationships": "Lack of admiration, relationship struggles, ego clashes.",
+            "Spiritual Meaning": "Spiritual setbacks, lack of divine recognition, ego-driven actions.",
+            "Advice/Actionable Guidance": "Humble yourself, learn from setbacks, seek inner validation.",
+            "Timeline/Timing/Season/Month": "Setback period / Weeks to Months / Summer / Element: Fire",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Seven of Wands": {
+        "upright": {
+            "General Meaning": "Defense, perseverance, standing your ground, challenge, courage.",
+            "Mental/Emotional Aspects": "Determination, resilience, confidence under pressure.",
+            "Financial/Career Meaning": "Protecting career position, overcoming competition, standing firm.",
+            "Love/Relationships": "Defending boundaries, standing up for relationship needs, resilience.",
+            "Spiritual Meaning": "Spiritual conviction, protecting beliefs, inner strength.",
+            "Advice/Actionable Guidance": "Stand your ground, stay resilient, defend your position.",
+            "Timeline/Timing/Season/Month": "Challenging period / Weeks to Months / Summer / Element: Fire",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Overwhelm, giving up, lack of defense, exhaustion.",
+            "Mental/Emotional Aspects": "Fatigue, lack of confidence, feeling defeated.",
+            "Financial/Career Meaning": "Overwhelmed in career, losing ground, professional exhaustion.",
+            "Love/Relationships": "Weakened boundaries, relationship overwhelm, lack of resilience.",
+            "Spiritual Meaning": "Spiritual fatigue, weakened faith, lack of conviction.",
+            "Advice/Actionable Guidance": "Rest and regroup, rebuild confidence, protect your energy.",
+            "Timeline/Timing/Season/Month": "Exhausting period / Weeks to Months / Summer / Element: Fire",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Eight of Wands": {
+        "upright": {
+            "General Meaning": "Speed, movement, progress, swift action, communication.",
+            "Mental/Emotional Aspects": "Excitement, clarity, rapid developments.",
+            "Financial/Career Meaning": "Fast-paced projects, quick opportunities, business momentum.",
+            "Love/Relationships": "Sudden romantic developments, passionate communication, swift progress.",
+            "Spiritual Meaning": "Spiritual breakthroughs, rapid insights, divine messages.",
+            "Advice/Actionable Guidance": "Act quickly, seize momentum, embrace swift changes.",
+            "Timeline/Timing/Season/Month": "Rapid progress / Days to Weeks / Summer / Element: Fire",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Delays, obstacles, lack of progress, miscommunication, stagnation.",
+            "Mental/Emotional Aspects": "Frustration, confusion, lack of clarity.",
+            "Financial/Career Meaning": "Stalled projects, delayed opportunities, business setbacks.",
+            "Love/Relationships": "Delayed romance, miscommunication, stalled progress.",
+            "Spiritual Meaning": "Blocked spiritual insights, delayed breakthroughs, divine miscommunication.",
+            "Advice/Actionable Guidance": "Clear communication, be patient, address obstacles.",
+            "Timeline/Timing/Season/Month": "Delayed period / Weeks to Months / Summer / Element: Fire",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Nine of Wands": {
+        "upright": {
+            "General Meaning": "Resilience, persistence, boundaries, strength, endurance.",
+            "Mental/Emotional Aspects": "Determination, guarded emotions, battle-worn but strong.",
+            "Financial/Career Meaning": "Protecting achievements, enduring challenges, career resilience.",
+            "Love/Relationships": "Guarded heart, protecting boundaries, resilient love.",
+            "Spiritual Meaning": "Spiritual endurance, protecting inner light, steadfast faith.",
+            "Advice/Actionable Guidance": "Stay resilient, protect your energy, push through challenges.",
+            "Timeline/Timing/Season/Month": "Enduring period / Weeks to Months / Autumn / Element: Fire",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Burnout, lack of resilience, giving up, vulnerability.",
+            "Mental/Emotional Aspects": "Exhaustion, paranoia, emotional fragility.",
+            "Financial/Career Meaning": "Career burnout, weakened defenses, professional setbacks.",
+            "Love/Relationships": "Weakened boundaries, emotional exhaustion, strained love.",
+            "Spiritual Meaning": "Spiritual burnout, weakened faith, lack of endurance.",
+            "Advice/Actionable Guidance": "Rest and recover, rebuild strength, protect your energy.",
+            "Timeline/Timing/Season/Month": "Exhausted period / Weeks to Months / Autumn / Element: Fire",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Ten of Wands": {
+        "upright": {
+            "General Meaning": "Burden, responsibility, hard work, stress, overcommitment.",
+            "Mental/Emotional Aspects": "Overwhelm, stress, feeling weighed down.",
+            "Financial/Career Meaning": "Overworked, heavy responsibilities, financial strain.",
+            "Love/Relationships": "Strained relationships, carrying emotional burdens, lack of balance.",
+            "Spiritual Meaning": "Spiritual overload, neglecting inner needs, burdened soul.",
+            "Advice/Actionable Guidance": "Delegate tasks, lighten your load, prioritize self-care.",
+            "Timeline/Timing/Season/Month": "Heavy period / Weeks to Months / Autumn / Element: Fire",
+            "Yes/No/Maybe": "No"
+        },
+        "reversed": {
+            "General Meaning": "Relief from burdens, delegation, release, freedom, renewal.",
+            "Mental/Emotional Aspects": "Reduced stress, emotional freedom, renewed energy.",
+            "Financial/Career Meaning": "Delegated responsibilities, financial relief, career freedom.",
+            "Love/Relationships": "Balanced relationships, emotional relief, shared burdens.",
+            "Spiritual Meaning": "Spiritual freedom, releasing burdens, divine renewal.",
+            "Advice/Actionable Guidance": "Release burdens, delegate tasks, embrace freedom.",
+            "Timeline/Timing/Season/Month": "Relief period / Weeks to Months / Autumn / Element: Fire",
+            "Yes/No/Maybe": "Yes"
+        }
+    },
+    "Page of Wands": {
+        "upright": {
+            "General Meaning": "Enthusiasm, exploration, creativity, free spirit, new ideas.",
+            "Mental/Emotional Aspects": "Excitement, curiosity, adventurous mindset.",
+            "Financial/Career Meaning": "New creative ventures, exploring career paths, enthusiastic projects.",
+            "Love/Relationships": "Playful romance, spontaneous connections, adventurous love.",
+            "Spiritual Meaning": "Spiritual curiosity, exploring new paths, inspired energy.",
+            "Advice/Actionable Guidance": "Embrace your enthusiasm, explore new ideas, stay open to adventure.",
+            "Timeline/Timing/Season/Month": "New sparks / Days to Weeks / Spring, Summer / Element: Fire",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Lack of enthusiasm, delays, uninspired ideas, recklessness.",
+            "Mental/Emotional Aspects": "Apathy, lack of curiosity, impulsive behavior.",
+            "Financial/Career Meaning": "Stalled projects, lack of creativity, reckless ventures.",
+            "Love/Relationships": "Lack of spark, impulsive romance, emotional disconnection.",
+            "Spiritual Meaning": "Blocked spiritual curiosity, lack of inspiration, reckless energy.",
+            "Advice/Actionable Guidance": "Rekindle curiosity, focus energy, avoid impulsiveness.",
+            "Timeline/Timing/Season/Month": "Delayed spark / Weeks to Months / Spring, Summer / Element: Fire",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Knight of Wands": {
+        "upright": {
+            "General Meaning": "Action, adventure, passion, impulsiveness, energy.",
+            "Mental/Emotional Aspects": "Boldness, enthusiasm, restless energy.",
+            "Financial/Career Meaning": "Bold career moves, fast-paced projects, entrepreneurial spirit.",
+            "Love/Relationships": "Passionate romance, adventurous love, impulsive connections.",
+            "Spiritual Meaning": "Spiritual passion, bold exploration, dynamic energy.",
+            "Advice/Actionable Guidance": "Channel your energy, act boldly, embrace adventure.",
+            "Timeline/Timing/Season/Month": "Swift action / Days to Weeks / Summer / Element: Fire",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Recklessness, impulsiveness, lack of direction, delays.",
+            "Mental/Emotional Aspects": "Restlessness, lack of focus, scattered energy.",
+            "Financial/Career Meaning": "Hasty career moves, stalled projects, reckless decisions.",
+            "Love/Relationships": "Impulsive romance, lack of commitment, unstable connections.",
+            "Spiritual Meaning": "Spiritual impulsiveness, lack of direction, blocked energy.",
+            "Advice/Actionable Guidance": "Slow down, focus energy, plan carefully.",
+            "Timeline/Timing/Season/Month": "Disrupted period / Weeks to Months / Summer / Element: Fire",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Queen of Wands": {
+        "upright": {
+            "General Meaning": "Confidence, passion, leadership, charisma, independence.",
+            "Mental/Emotional Aspects": "Self-assurance, warmth, vibrant energy.",
+            "Financial/Career Meaning": "Dynamic leadership, successful ventures, creative control.",
+            "Love/Relationships": "Passionate relationships, magnetic attraction, confident love.",
+            "Spiritual Meaning": "Spiritual confidence, inner fire, divine feminine energy.",
+            "Advice/Actionable Guidance": "Embrace your confidence, lead with passion, inspire others.",
+            "Timeline/Timing/Season/Month": "Empowered period / Weeks to Months / Summer / Element: Fire",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Lack of confidence, jealousy, selfishness, low energy.",
+            "Mental/Emotional Aspects": "Insecurity, emotional instability, lack of warmth.",
+            "Financial/Career Meaning": "Uninspired leadership, career setbacks, lack of charisma.",
+            "Love/Relationships": "Jealousy in relationships, lack of passion, emotional distance.",
+            "Spiritual Meaning": "Blocked spiritual confidence, lack of inner fire, divine disconnection.",
+            "Advice/Actionable Guidance": "Rebuild confidence, overcome jealousy, reconnect with passion.",
+            "Timeline/Timing/Season/Month": "Uninspired period / Weeks to Months / Summer / Element: Fire",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "King of Wands": {
+        "upright": {
+            "General Meaning": "Leadership, vision, entrepreneurship, confidence, ambition.",
+            "Mental/Emotional Aspects": "Charisma, determination, inspiring mindset.",
+            "Financial/Career Meaning": "Successful leadership, bold ventures, career dominance.",
+            "Love/Relationships": "Strong partnerships, passionate leadership, mutual respect.",
+            "Spiritual Meaning": "Spiritual leadership, visionary insight, divine authority.",
+            "Advice/Actionable Guidance": "Lead with vision, inspire others, pursue ambitious goals.",
+            "Timeline/Timing/Season/Month": "Dominant period / Weeks to Months / Summer / Element: Fire",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Domineering, lack of vision, impulsiveness, weak leadership.",
+            "Mental/Emotional Aspects": "Arrogance, lack of inspiration, emotional instability.",
+            "Financial/Career Meaning": "Failed leadership, stalled ventures, impulsive decisions.",
+            "Love/Relationships": "Controlling relationships, lack of respect, unstable partnerships.",
+            "Spiritual Meaning": "Blocked spiritual vision, ego-driven actions, divine disconnection.",
+            "Advice/Actionable Guidance": "Humble yourself, inspire others, rebuild vision.",
+            "Timeline/Timing/Season/Month": "Unstable period / Weeks to Months / Summer / Element: Fire",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Ace of Cups": {
+        "upright": {
+            "General Meaning": "Love, compassion, creativity, emotional fulfillment, new feelings.",
+            "Mental/Emotional Aspects": "Emotional openness, joy, heartfelt connection.",
+            "Financial/Career Meaning": "Creative opportunities, emotionally fulfilling work, intuitive ventures.",
+            "Love/Relationships": "New love, deep emotional bonds, romantic beginnings.",
+            "Spiritual Meaning": "Spiritual love, divine connection, emotional awakening.",
+            "Advice/Actionable Guidance": "Open your heart, embrace love, follow your emotions.",
+            "Timeline/Timing/Season/Month": "Emotional start / Days to Weeks / Summer / Element: Water",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Blocked emotions, lack of love, emotional stagnation, disconnection.",
+            "Mental/Emotional Aspects": "Emotional repression, apathy, lack of joy.",
+            "Financial/Career Meaning": "Unfulfilling work, blocked creativity, lack of opportunities.",
+            "Love/Relationships": "Emotional distance, stalled romance, lack of connection.",
+            "Spiritual Meaning": "Blocked spiritual love, lack of divine connection, emotional emptiness.",
+            "Advice/Actionable Guidance": "Open your heart, seek emotional healing, reconnect with love.",
+            "Timeline/Timing/Season/Month": "Stagnant period / Weeks to Months / Summer / Element: Water",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Two of Cups": {
+        "upright": {
+            "General Meaning": "Partnership, love, harmony, mutual attraction, connection.",
+            "Mental/Emotional Aspects": "Emotional balance, mutual understanding, heartfelt bonds.",
+            "Financial/Career Meaning": "Collaborative ventures, harmonious teamwork, aligned partnerships.",
+            "Love/Relationships": "Romantic partnerships, soulmate connections, mutual love.",
+            "Spiritual Meaning": "Divine union, spiritual partnerships, emotional harmony.",
+            "Advice/Actionable Guidance": "Foster partnerships, embrace mutual love, strengthen connections.",
+            "Timeline/Timing/Season/Month": "Harmonious period / Weeks to Months / Summer / Element: Water",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Disharmony, disconnection, unbalanced partnerships, conflict.",
+            "Mental/Emotional Aspects": "Emotional discord, lack of understanding, resentment.",
+            "Financial/Career Meaning": "Failed partnerships, disharmonious teamwork, stalled ventures.",
+            "Love/Relationships": "Broken connections, lack of mutual love, relationship conflicts.",
+            "Spiritual Meaning": "Spiritual disharmony, lack of divine union, karmic disconnection.",
+            "Advice/Actionable Guidance": "Resolve conflicts, seek mutual understanding, rebuild harmony.",
+            "Timeline/Timing/Season/Month": "Conflicted period / Weeks to Months / Summer / Element: Water",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Three of Cups": {
+        "upright": {
+            "General Meaning": "Celebration, friendship, community, joy, creativity.",
+            "Mental/Emotional Aspects": "Happiness, camaraderie, emotional fulfillment.",
+            "Financial/Career Meaning": "Team success, creative collaboration, joyful work environment.",
+            "Love/Relationships": "Supportive friendships, joyful connections, shared happiness.",
+            "Spiritual Meaning": "Spiritual community, divine joy, collective energy.",
+            "Advice/Actionable Guidance": "Celebrate with others, strengthen friendships, embrace joy.",
+            "Timeline/Timing/Season/Month": "Joyful period / Days to Weeks / Summer / Element: Water",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Overindulgence, isolation, lack of community, disharmony.",
+            "Mental/Emotional Aspects": "Loneliness, emotional disconnection, excessive behavior.",
+            "Financial/Career Meaning": "Disharmonious teams, lack of collaboration, uninspired work.",
+            "Love/Relationships": "Strained friendships, lack of joy, emotional distance.",
+            "Spiritual Meaning": "Spiritual isolation, lack of divine joy, disconnected community.",
+            "Advice/Actionable Guidance": "Reconnect with others, moderate behavior, rebuild community.",
+            "Timeline/Timing/Season/Month": "Isolated period / Weeks to Months / Summer / Element: Water",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Four of Cups": {
+        "upright": {
+            "General Meaning": "Apathy, dissatisfaction, contemplation, missed opportunities, withdrawal.",
+            "Mental/Emotional Aspects": "Boredom, emotional stagnation, lack of motivation.",
+            "Financial/Career Meaning": "Missed career opportunities, lack of engagement, stagnation.",
+            "Love/Relationships": "Emotional withdrawal, dissatisfaction in love, missed connections.",
+            "Spiritual Meaning": "Spiritual disconnection, lack of inspiration, inner stagnation.",
+            "Advice/Actionable Guidance": "Reevaluate priorities, open to new possibilities, overcome apathy.",
+            "Timeline/Timing/Season/Month": "Stagnant period / Weeks to Months / Autumn / Element: Water",
+            "Yes/No/Maybe": "No"
+        },
+        "reversed": {
+            "General Meaning": "Awareness, new opportunities, openness, reengagement, clarity.",
+            "Mental/Emotional Aspects": "Renewed motivation, emotional clarity, openness to change.",
+            "Financial/Career Meaning": "New career opportunities, reengaged work, clear goals.",
+            "Love/Relationships": "Emotional openness, new connections, renewed love.",
+            "Spiritual Meaning": "Spiritual awakening, renewed inspiration, divine clarity.",
+            "Advice/Actionable Guidance": "Seize new opportunities, embrace change, stay open.",
+            "Timeline/Timing/Season/Month": "Open period / Weeks to Months / Autumn / Element: Water",
+            "Yes/No/Maybe": "Yes"
+        }
+    },
+    "Five of Cups": {
+        "upright": {
+            "General Meaning": "Loss, regret, grief, despair, focusing on negatives.",
+            "Mental/Emotional Aspects": "Sadness, mourning, emotional pain.",
+            "Financial/Career Meaning": "Career setbacks, financial loss, missed opportunities.",
+            "Love/Relationships": "Heartbreak, relationship loss, emotional regret.",
+            "Spiritual Meaning": "Spiritual grief, disconnection from hope, karmic lessons.",
+            "Advice/Actionable Guidance": "Process grief, focus on what remains, seek healing.",
+            "Timeline/Timing/Season/Month": "Grieving period / Weeks to Months / Autumn / Element: Water",
+            "Yes/No/Maybe": "No"
+        },
+        "reversed": {
+            "General Meaning": "Acceptance, moving on, hope, emotional healing, recovery.",
+            "Mental/Emotional Aspects": "Emotional renewal, reduced grief, newfound hope.",
+            "Financial/Career Meaning": "Career recovery, financial hope, new opportunities.",
+            "Love/Relationships": "Healing from heartbreak, renewed trust, emotional recovery.",
+            "Spiritual Meaning": "Spiritual healing, renewed divine connection, karmic resolution.",
+            "Advice/Actionable Guidance": "Focus on healing, embrace hope, move forward.",
+            "Timeline/Timing/Season/Month": "Healing period / Weeks to Months / Autumn / Element: Water",
+            "Yes/No/Maybe": "Yes"
+        }
+    },
+    "Six of Cups": {
+        "upright": {
+            "General Meaning": "Nostalgia, memories, kindness, innocence, childhood.",
+            "Mental/Emotional Aspects": "Sentimental joy, emotional warmth, fond memories.",
+            "Financial/Career Meaning": "Revisiting past projects, nostalgic work, supportive colleagues.",
+            "Love/Relationships": "Rekindled romance, past connections, heartfelt bonds.",
+            "Spiritual Meaning": "Spiritual innocence, reconnecting with inner child, divine kindness.",
+            "Advice/Actionable Guidance": "Embrace nostalgia, share kindness, reconnect with the past.",
+            "Timeline/Timing/Season/Month": "Sentimental period / Weeks to Months / Autumn / Element: Water",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Clinging to past, emotional stagnation, unrealistic nostalgia, disconnection.",
+            "Mental/Emotional Aspects": "Emotional fixation, lack of growth, unrealistic memories.",
+            "Financial/Career Meaning": "Stalled progress, clinging to old projects, lack of innovation.",
+            "Love/Relationships": "Clinging to past love, emotional stagnation, unrealistic expectations.",
+            "Spiritual Meaning": "Blocked spiritual growth, clinging to old beliefs, karmic stagnation.",
+            "Advice/Actionable Guidance": "Let go of the past, embrace growth, focus on the present.",
+            "Timeline/Timing/Season/Month": "Stagnant period / Weeks to Months / Autumn / Element: Water",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Seven of Cups": {
+        "upright": {
+            "General Meaning": "Choices, illusions, fantasy, wishful thinking, indecision.",
+            "Mental/Emotional Aspects": "Confusion, daydreaming, scattered emotions.",
+            "Financial/Career Meaning": "Multiple opportunities, unrealistic goals, lack of focus.",
+            "Love/Relationships": "Romantic fantasies, unclear intentions, indecision in love.",
+            "Spiritual Meaning": "Spiritual illusions, lack of clarity, chasing false ideals.",
+            "Advice/Actionable Guidance": "Clarify your choices, focus on reality, avoid illusions.",
+            "Timeline/Timing/Season/Month": "Indecision period / Weeks to Months / Autumn / Element: Water",
+            "Yes/No/Maybe": "Maybe"
+        },
+        "reversed": {
+            "General Meaning": "Clarity, focus, grounded decisions, reality, clear choices.",
+            "Mental/Emotional Aspects": "Clear thinking, emotional stability, focused mindset.",
+            "Financial/Career Meaning": "Realistic goals, clear opportunities, focused career path.",
+            "Love/Relationships": "Clear intentions, realistic love, grounded relationships.",
+            "Spiritual Meaning": "Spiritual clarity, grounded beliefs, divine focus.",
+            "Advice/Actionable Guidance": "Focus on reality, make clear choices, avoid distractions.",
+            "Timeline/Timing/Season/Month": "Clear period / Weeks to Months / Autumn / Element: Water",
+            "Yes/No/Maybe": "Yes"
+        }
+    },
+    "Eight of Cups": {
+        "upright": {
+            "General Meaning": "Abandonment, walking away, searching for meaning, transition.",
+            "Mental/Emotional Aspects": "Disillusionment, emotional detachment, seeking purpose.",
+            "Financial/Career Meaning": "Leaving unfulfilling job, career transition, seeking purpose.",
+            "Love/Relationships": "Walking away from relationships, seeking deeper connection, emotional transition.",
+            "Spiritual Meaning": "Spiritual quest, seeking higher meaning, letting go of illusions.",
+            "Advice/Actionable Guidance": "Let go of what no longer serves, seek deeper meaning, embrace transition.",
+            "Timeline/Timing/Season/Month": "Transition period / Weeks to Months / Autumn / Element: Water",
+            "Yes/No/Maybe": "Maybe"
+        },
+        "reversed": {
+            "General Meaning": "Clinging to past, fear of change, stagnation, avoidance.",
+            "Mental/Emotional Aspects": "Emotional resistance, fear of loss, lack of purpose.",
+            "Financial/Career Meaning": "Staying in unfulfilling job, fear of transition, career stagnation.",
+            "Love/Relationships": "Clinging to unhealthy relationships, fear of moving on, emotional stagnation.",
+            "Spiritual Meaning": "Spiritual stagnation, avoiding higher purpose, blocked growth.",
+            "Advice/Actionable Guidance": "Embrace change, let go of the past, seek purpose.",
+            "Timeline/Timing/Season/Month": "Stagnant period / Weeks to Months / Autumn / Element: Water",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Nine of Cups": {
+        "upright": {
+            "General Meaning": "Wish fulfillment, satisfaction, contentment, emotional abundance.",
+            "Mental/Emotional Aspects": "Happiness, emotional fulfillment, gratitude.",
+            "Financial/Career Meaning": "Career satisfaction, financial abundance, achieved goals.",
+            "Love/Relationships": "Happy relationships, emotional fulfillment, mutual love.",
+            "Spiritual Meaning": "Spiritual contentment, divine gratitude, emotional harmony.",
+            "Advice/Actionable Guidance": "Celebrate your achievements, express gratitude, enjoy fulfillment.",
+            "Timeline/Timing/Season/Month": "Fulfilled period / Weeks to Months / Autumn / Element: Water",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Dissatisfaction, greed, unfulfilled wishes, emotional emptiness.",
+            "Mental/Emotional Aspects": "Discontent, lack of gratitude, emotional void.",
+            "Financial/Career Meaning": "Unfulfilled career, financial dissatisfaction, unrealistic goals.",
+            "Love/Relationships": "Unhappy relationships, lack of fulfillment, emotional distance.",
+            "Spiritual Meaning": "Spiritual emptiness, lack of divine gratitude, karmic dissatisfaction.",
+            "Advice/Actionable Guidance": "Practice gratitude, reassess desires, seek true fulfillment.",
+            "Timeline/Timing/Season/Month": "Unfulfilled period / Weeks to Months / Autumn / Element: Water",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Ten of Cups": {
+        "upright": {
+            "General Meaning": "Harmony, happiness, family, emotional fulfillment, lasting love.",
+            "Mental/Emotional Aspects": "Joy, emotional wholeness, family unity.",
+            "Financial/Career Meaning": "Harmonious workplace, fulfilling career, stable finances.",
+            "Love/Relationships": "Happy family, lasting love, soulmate connections.",
+            "Spiritual Meaning": "Divine harmony, spiritual fulfillment, universal love.",
+            "Advice/Actionable Guidance": "Cherish family, embrace harmony, celebrate emotional fulfillment.",
+            "Timeline/Timing/Season/Month": "Harmonious period / Weeks to Months / Autumn / Element: Water",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Disharmony, broken family, emotional disconnection, unfulfilled dreams.",
+            "Mental/Emotional Aspects": "Emotional discord, family conflict, lack of joy.",
+            "Financial/Career Meaning": "Disharmonious workplace, financial instability, unfulfilled goals.",
+            "Love/Relationships": "Family discord, broken relationships, lack of harmony.",
+            "Spiritual Meaning": "Spiritual disconnection, lack of divine harmony, karmic discord.",
+            "Advice/Actionable Guidance": "Resolve conflicts, rebuild harmony, reconnect with family.",
+            "Timeline/Timing/Season/Month": "Disharmonious period / Weeks to Months / Autumn / Element: Water",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Page of Cups": {
+        "upright": {
+            "General Meaning": "Creativity, intuition, emotional openness, new love, sensitivity.",
+            "Mental/Emotional Aspects": "Dreamy emotions, sensitivity, imaginative mindset.",
+            "Financial/Career Meaning": "Creative projects, intuitive work, emotionally fulfilling tasks.",
+            "Love/Relationships": "New romantic feelings, sensitive connections, dreamy love.",
+            "Spiritual Meaning": "Spiritual sensitivity, intuitive insights, emotional awakening.",
+            "Advice/Actionable Guidance": "Embrace your sensitivity, explore creativity, open your heart.",
+            "Timeline/Timing/Season/Month": "Emotional start / Days to Weeks / Summer, Autumn / Element: Water",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Emotional immaturity, blocked creativity, lack of intuition, disconnection.",
+            "Mental/Emotional Aspects": "Emotional insecurity, lack of sensitivity, uninspired mindset.",
+            "Financial/Career Meaning": "Uninspired work, blocked creativity, lack of opportunities.",
+            "Love/Relationships": "Immature emotions, stalled romance, lack of connection.",
+            "Spiritual Meaning": "Blocked spiritual intuition, lack of emotional awakening, divine disconnection.",
+            "Advice/Actionable Guidance": "Mature emotionally, reconnect with creativity, trust intuition.",
+            "Timeline/Timing/Season/Month": "Disconnected period / Weeks to Months / Summer, Autumn / Element: Water",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Knight of Cups": {
+        "upright": {
+            "General Meaning": "Romance, charm, idealism, emotional pursuit, creativity.",
+            "Mental/Emotional Aspects": "Romantic idealism, emotional depth, artistic mindset.",
+            "Financial/Career Meaning": "Creative pursuits, emotionally driven work, idealistic ventures.",
+            "Love/Relationships": "Romantic gestures, deep emotional connections, charming love.",
+            "Spiritual Meaning": "Spiritual idealism, emotional quests, divine inspiration.",
+            "Advice/Actionable Guidance": "Follow your heart, pursue ideals, embrace romantic energy.",
+            "Timeline/Timing/Season/Month": "Romantic period / Days to Weeks / Summer, Autumn / Element: Water",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Unrealistic ideals, emotional instability, moodiness, deception.",
+            "Mental/Emotional Aspects": "Emotional volatility, lack of focus, unrealistic dreams.",
+            "Financial/Career Meaning": "Unrealistic career goals, unstable work, deceptive ventures.",
+            "Love/Relationships": "Unstable romance, deceptive gestures, emotional manipulation.",
+            "Spiritual Meaning": "Blocked spiritual idealism, lack of divine inspiration, emotional deception.",
+            "Advice/Actionable Guidance": "Ground your ideals, stabilize emotions, avoid deception.",
+            "Timeline/Timing/Season/Month": "Unstable period / Weeks to Months / Summer, Autumn / Element: Water",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Queen of Cups": {
+        "upright": {
+            "General Meaning": "Compassion, intuition, emotional depth, nurturing, empathy.",
+            "Mental/Emotional Aspects": "Empathy, emotional wisdom, nurturing mindset.",
+            "Financial/Career Meaning": "Emotionally fulfilling work, intuitive leadership, supportive roles.",
+            "Love/Relationships": "Nurturing relationships, deep emotional bonds, compassionate love.",
+            "Spiritual Meaning": "Spiritual intuition, divine compassion, emotional wisdom.",
+            "Advice/Actionable Guidance": "Embrace compassion, trust your intuition, nurture others.",
+            "Timeline/Timing/Season/Month": "Nurturing period / Weeks to Months / Summer, Autumn / Element: Water",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Emotional instability, codependency, lack of intuition, neediness.",
+            "Mental/Emotional Aspects": "Emotional volatility, lack of empathy, insecurity.",
+            "Financial/Career Meaning": "Unstable work, lack of intuitive leadership, emotional decisions.",
+            "Love/Relationships": "Codependent relationships, emotional neediness, lack of compassion.",
+            "Spiritual Meaning": "Blocked spiritual intuition, lack of divine compassion, emotional disconnection.",
+            "Advice/Actionable Guidance": "Stabilize emotions, rebuild intuition, foster independence.",
+            "Timeline/Timing/Season/Month": "Unstable period / Weeks to Months / Summer, Autumn / Element: Water",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "King of Cups": {
+        "upright": {
+            "General Meaning": "Emotional balance, compassion, wisdom, diplomacy, control.",
+            "Mental/Emotional Aspects": "Emotional maturity, calm wisdom, empathetic leadership.",
+            "Financial/Career Meaning": "Stable leadership, emotionally balanced work, diplomatic roles.",
+            "Love/Relationships": "Mature relationships, compassionate partnerships, emotional stability.",
+            "Spiritual Meaning": "Spiritual wisdom, divine compassion, emotional mastery.",
+            "Advice/Actionable Guidance": "Lead with compassion, maintain emotional balance, offer wisdom.",
+            "Timeline/Timing/Season/Month": "Stable period / Weeks to Months / Summer, Autumn / Element: Water",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Emotional manipulation, instability, lack of compassion, moodiness.",
+            "Mental/Emotional Aspects": "Emotional volatility, lack of wisdom, manipulative behavior.",
+            "Financial/Career Meaning": "Unstable leadership, emotional decisions, lack of diplomacy.",
+            "Love/Relationships": "Manipulative partnerships, emotional instability, lack of compassion.",
+            "Spiritual Meaning": "Blocked spiritual wisdom, lack of divine compassion, emotional manipulation.",
+            "Advice/Actionable Guidance": "Stabilize emotions, practice compassion, avoid manipulation.",
+            "Timeline/Timing/Season/Month": "Unstable period / Weeks to Months / Summer, Autumn / Element: Water",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Ace of Swords": {
+        "upright": {
+            "General Meaning": "Clarity, truth, mental breakthrough, new ideas, justice.",
+            "Mental/Emotional Aspects": "Mental clarity, sharp focus, intellectual insight.",
+            "Financial/Career Meaning": "New strategies, clear career goals, intellectual ventures.",
+            "Love/Relationships": "Honest communication, clear intentions, intellectual connections.",
+            "Spiritual Meaning": "Spiritual truth, mental awakening, divine clarity.",
+            "Advice/Actionable Guidance": "Seek truth, embrace clarity, act on new insights.",
+            "Timeline/Timing/Season/Month": "Mental breakthrough / Days to Weeks / Autumn / Element: Air",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Confusion, lack of clarity, mental blockage, dishonesty, indecision.",
+            "Mental/Emotional Aspects": "Mental fog, lack of focus, emotional confusion.",
+            "Financial/Career Meaning": "Unclear strategies, stalled career, dishonest dealings.",
+            "Love/Relationships": "Dishonest communication, unclear intentions, mental disconnection.",
+            "Spiritual Meaning": "Blocked spiritual truth, lack of mental awakening, divine confusion.",
+            "Advice/Actionable Guidance": "Seek clarity, be honest, overcome mental blocks.",
+            "Timeline/Timing/Season/Month": "Confused period / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Two of Swords": {
+        "upright": {
+            "General Meaning": "Indecision, stalemate, denial, difficult choices, avoidance.",
+            "Mental/Emotional Aspects": "Mental conflict, emotional suppression, indecision.",
+            "Financial/Career Meaning": "Career indecision, stalled decisions, avoiding tough choices.",
+            "Love/Relationships": "Emotional barriers, indecision in relationships, suppressed feelings.",
+            "Spiritual Meaning": "Spiritual conflict, avoiding inner truth, mental blockage.",
+            "Advice/Actionable Guidance": "Face your choices, seek clarity, remove emotional blindfolds.",
+            "Timeline/Timing/Season/Month": "Stalemate period / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "Maybe"
+        },
+        "reversed": {
+            "General Meaning": "Resolution, clarity, open communication, decisive action, truth.",
+            "Mental/Emotional Aspects": "Clear thinking, emotional openness, resolved conflict.",
+            "Financial/Career Meaning": "Clear career decisions, resolved stalemates, honest dealings.",
+            "Love/Relationships": "Open communication, emotional clarity, resolved barriers.",
+            "Spiritual Meaning": "Spiritual clarity, embracing inner truth, divine resolution.",
+            "Advice/Actionable Guidance": "Make decisions, embrace clarity, communicate openly.",
+            "Timeline/Timing/Season/Month": "Clear period / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "Yes"
+        }
+    },
+    "Three of Swords": {
+        "upright": {
+            "General Meaning": "Heartbreak, betrayal, grief, emotional pain, separation.",
+            "Mental/Emotional Aspects": "Sorrow, emotional wounds, mental anguish.",
+            "Financial/Career Meaning": "Career disappointments, financial betrayal, professional setbacks.",
+            "Love/Relationships": "Breakups, betrayal in love, emotional heartbreak.",
+            "Spiritual Meaning": "Spiritual pain, karmic lessons, healing through grief.",
+            "Advice/Actionable Guidance": "Process your pain, seek healing, allow time for recovery.",
+            "Timeline/Timing/Season/Month": "Grieving period / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "No"
+        },
+        "reversed": {
+            "General Meaning": "Healing, forgiveness, moving on, emotional recovery, hope.",
+            "Mental/Emotional Aspects": "Emotional healing, reduced pain, renewed hope.",
+            "Financial/Career Meaning": "Career recovery, financial healing, resolved setbacks.",
+            "Love/Relationships": "Healing from heartbreak, renewed trust, emotional recovery.",
+            "Spiritual Meaning": "Spiritual healing, karmic resolution, divine forgiveness.",
+            "Advice/Actionable Guidance": "Forgive and heal, embrace hope, move forward.",
+            "Timeline/Timing/Season/Month": "Healing period / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "Yes"
+        }
+    },
+    "Four of Swords": {
+        "upright": {
+            "General Meaning": "Rest, recovery, contemplation, retreat, healing.",
+            "Mental/Emotional Aspects": "Mental peace, emotional recovery, quiet reflection.",
+            "Financial/Career Meaning": "Career pause, recovery from burnout, reassessing goals.",
+            "Love/Relationships": "Time apart, emotional healing, reflective love.",
+            "Spiritual Meaning": "Spiritual retreat, inner peace, meditative healing.",
+            "Advice/Actionable Guidance": "Take time to rest, reflect quietly, prioritize recovery.",
+            "Timeline/Timing/Season/Month": "Restful period / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "Maybe"
+        },
+        "reversed": {
+            "General Meaning": "Restlessness, burnout, refusal to rest, stress, agitation.",
+            "Mental/Emotional Aspects": "Mental agitation, emotional unrest, lack of peace.",
+            "Financial/Career Meaning": "Career burnout, refusal to pause, ongoing stress.",
+            "Love/Relationships": "Emotional unrest, lack of healing, strained relationships.",
+            "Spiritual Meaning": "Spiritual agitation, lack of inner peace, blocked healing.",
+            "Advice/Actionable Guidance": "Prioritize rest, seek peace, address burnout.",
+            "Timeline/Timing/Season/Month": "Stressful period / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Five of Swords": {
+        "upright": {
+            "General Meaning": "Conflict, defeat, betrayal, winning at a cost, manipulation.",
+            "Mental/Emotional Aspects": "Ego clashes, resentment, mental tension.",
+            "Financial/Career Meaning": "Workplace conflicts, unethical wins, career losses.",
+            "Love/Relationships": "Arguments, betrayal in relationships, hollow victories.",
+            "Spiritual Meaning": "Spiritual conflict, ego-driven choices, karmic consequences.",
+            "Advice/Actionable Guidance": "Avoid unnecessary conflicts, seek fair resolutions, let go of ego.",
+            "Timeline/Timing/Season/Month": "Conflict period / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "No"
+        },
+        "reversed": {
+            "General Meaning": "Reconciliation, forgiveness, cooperation, resolution, humility.",
+            "Mental/Emotional Aspects": "Reduced tension, emotional healing, collaborative mindset.",
+            "Financial/Career Meaning": "Resolved conflicts, cooperative work, fair outcomes.",
+            "Love/Relationships": "Reconciled arguments, mutual forgiveness, restored harmony.",
+            "Spiritual Meaning": "Spiritual harmony, resolved conflict, divine cooperation.",
+            "Advice/Actionable Guidance": "Seek reconciliation, forgive others, focus on cooperation.",
+            "Timeline/Timing/Season/Month": "Harmonious period / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "Yes"
+        }
+    },
+    "Six of Swords": {
+        "upright": {
+            "General Meaning": "Transition, moving on, healing, journey, release.",
+            "Mental/Emotional Aspects": "Emotional relief, mental clarity, moving past pain.",
+            "Financial/Career Meaning": "Career transition, leaving toxic work, financial recovery.",
+            "Love/Relationships": "Moving on from heartbreak, healing relationships, emotional journey.",
+            "Spiritual Meaning": "Spiritual transition, releasing burdens, inner healing.",
+            "Advice/Actionable Guidance": "Embrace transition, let go of the past, move toward healing.",
+            "Timeline/Timing/Season/Month": "Transition period / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Stagnation, resistance to change, clinging to past, emotional baggage.",
+            "Mental/Emotional Aspects": "Emotional resistance, fear of moving on, mental stagnation.",
+            "Financial/Career Meaning": "Staying in toxic work, stalled transitions, financial stagnation.",
+            "Love/Relationships": "Clinging to old relationships, fear of healing, emotional stagnation.",
+            "Spiritual Meaning": "Spiritual stagnation, resisting growth, karmic baggage.",
+            "Advice/Actionable Guidance": "Embrace change, let go of baggage, seek healing.",
+            "Timeline/Timing/Season/Month": "Stagnant period / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Seven of Swords": {
+        "upright": {
+            "General Meaning": "Deception, strategy, secrecy, cunning, betrayal.",
+            "Mental/Emotional Aspects": "Guarded thoughts, mistrust, strategic thinking.",
+            "Financial/Career Meaning": "Dishonesty in business, sneaky tactics, financial secrecy.",
+            "Love/Relationships": "Deception in relationships, hidden intentions, mistrust.",
+            "Spiritual Meaning": "Spiritual dishonesty, avoiding truth, karmic lessons.",
+            "Advice/Actionable Guidance": "Be honest, avoid deceit, confront hidden motives.",
+            "Timeline/Timing/Season/Month": "Deceptive period / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "No"
+        },
+        "reversed": {
+            "General Meaning": "Honesty, exposure, accountability, truth, resolution.",
+            "Mental/Emotional Aspects": "Clear thinking, emotional honesty, resolved mistrust.",
+            "Financial/Career Meaning": "Honest dealings, exposed deceit, resolved business issues.",
+            "Love/Relationships": "Honest communication, resolved deception, restored trust.",
+            "Spiritual Meaning": "Spiritual truth, divine accountability, karmic resolution.",
+            "Advice/Actionable Guidance": "Be honest, confront deceit, embrace accountability.",
+            "Timeline/Timing/Season/Month": "Resolved period / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "Yes"
+        }
+    },
+    "Eight of Swords": {
+        "upright": {
+            "General Meaning": "Restriction, entrapment, fear, self-imposed limits, powerlessness.",
+            "Mental/Emotional Aspects": "Anxiety, self-doubt, mental imprisonment.",
+            "Financial/Career Meaning": "Feeling trapped in job, financial restrictions, lack of options.",
+            "Love/Relationships": "Emotional entrapment, restrictive relationships, fear of vulnerability.",
+            "Spiritual Meaning": "Spiritual blockage, fear-based beliefs, self-imposed limits.",
+            "Advice/Actionable Guidance": "Challenge your fears, seek freedom, recognize your power.",
+            "Timeline/Timing/Season/Month": "Restricted period / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "No"
+        },
+        "reversed": {
+            "General Meaning": "Freedom, empowerment, breaking free, clarity, self-awareness.",
+            "Mental/Emotional Aspects": "Reduced anxiety, emotional freedom, clear thinking.",
+            "Financial/Career Meaning": "Career freedom, new opportunities, resolved restrictions.",
+            "Love/Relationships": "Emotional liberation, open relationships, resolved fears.",
+            "Spiritual Meaning": "Spiritual freedom, overcoming fears, divine empowerment.",
+            "Advice/Actionable Guidance": "Break free from limitations, embrace empowerment, seek clarity.",
+            "Timeline/Timing/Season/Month": "Liberated period / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "Yes"
+        }
+    },
+    "Nine of Swords": {
+        "upright": {
+            "General Meaning": "Anxiety, despair, nightmares, guilt, mental anguish.",
+            "Mental/Emotional Aspects": "Overwhelming worry, sleepless nights, emotional torment.",
+            "Financial/Career Meaning": "Stress over finances, career fears, mental burnout.",
+            "Love/Relationships": "Fear of loss, relationship anxiety, emotional distress.",
+            "Spiritual Meaning": "Spiritual fear, karmic guilt, mental blockages.",
+            "Advice/Actionable Guidance": "Seek support, confront fears, practice self-compassion.",
+            "Timeline/Timing/Season/Month": "Anxious period / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "No"
+        },
+        "reversed": {
+            "General Meaning": "Hope, recovery, reduced anxiety, healing, clarity.",
+            "Mental/Emotional Aspects": "Emotional healing, reduced worry, renewed hope.",
+            "Financial/Career Meaning": "Career recovery, reduced stress, financial hope.",
+            "Love/Relationships": "Healing from relationship fears, renewed trust, emotional recovery.",
+            "Spiritual Meaning": "Spiritual healing, renewed faith, divine clarity.",
+            "Advice/Actionable Guidance": "Seek healing, embrace hope, practice self-compassion.",
+            "Timeline/Timing/Season/Month": "Healing period / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "Yes"
+        }
+    },
+    "Ten of Swords": {
+        "upright": {
+            "General Meaning": "Betrayal, endings, rock bottom, defeat, painful closure.",
+            "Mental/Emotional Aspects": "Despair, mental exhaustion, emotional collapse.",
+            "Financial/Career Meaning": "Career failure, financial ruin, professional betrayal.",
+            "Love/Relationships": "Painful breakups, betrayal in love, emotional endings.",
+            "Spiritual Meaning": "Spiritual crisis, karmic endings, rebirth through pain.",
+            "Advice/Actionable Guidance": "Accept endings, seek healing, prepare for renewal.",
+            "Timeline/Timing/Season/Month": "Painful closure / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "No"
+        },
+        "reversed": {
+            "General Meaning": "Recovery, renewal, hope, moving on, healing.",
+            "Mental/Emotional Aspects": "Emotional healing, renewed hope, reduced despair.",
+            "Financial/Career Meaning": "Career recovery, financial hope, new opportunities.",
+            "Love/Relationships": "Healing from betrayal, renewed trust, emotional renewal.",
+            "Spiritual Meaning": "Spiritual renewal, karmic resolution, divine healing.",
+            "Advice/Actionable Guidance": "Embrace healing, move forward, seek renewal.",
+            "Timeline/Timing/Season/Month": "Healing period / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "Yes"
+        }
+    },
+    "Page of Swords": {
+        "upright": {
+            "General Meaning": "Curiosity, mental agility, communication, new ideas, vigilance.",
+            "Mental/Emotional Aspects": "Intellectual curiosity, sharp thinking, restless mind.",
+            "Financial/Career Meaning": "New strategies, intellectual pursuits, investigative work.",
+            "Love/Relationships": "Intellectual connections, curious communication, cautious love.",
+            "Spiritual Meaning": "Spiritual curiosity, seeking truth, mental awakening.",
+            "Advice/Actionable Guidance": "Stay curious, communicate clearly, remain vigilant.",
+            "Timeline/Timing/Season/Month": "Mental spark / Days to Weeks / Autumn / Element: Air",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Gossip, impulsiveness, mental restlessness, lack of focus.",
+            "Mental/Emotional Aspects": "Scattered thoughts, impulsive communication, lack of clarity.",
+            "Financial/Career Meaning": "Unreliable strategies, impulsive career moves, lack of focus.",
+            "Love/Relationships": "Dishonest communication, impulsive connections, mental disconnection.",
+            "Spiritual Meaning": "Blocked spiritual curiosity, impulsive beliefs, divine disconnection.",
+            "Advice/Actionable Guidance": "Focus your thoughts, communicate clearly, avoid impulsiveness.",
+            "Timeline/Timing/Season/Month": "Restless period / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Knight of Swords": {
+        "upright": {
+            "General Meaning": "Action, ambition, speed, assertiveness, intellectual pursuit.",
+            "Mental/Emotional Aspects": "Driven mindset, sharp focus, impulsive thoughts.",
+            "Financial/Career Meaning": "Fast-paced career moves, intellectual ambition, bold strategies.",
+            "Love/Relationships": "Direct communication, intellectual attraction, assertive love.",
+            "Spiritual Meaning": "Spiritual quest, intellectual truth, dynamic energy.",
+            "Advice/Actionable Guidance": "Act decisively, stay focused, avoid recklessness.",
+            "Timeline/Timing/Season/Month": "Swift action / Days to Weeks / Autumn / Element: Air",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Recklessness, aggression, lack of direction, impulsiveness.",
+            "Mental/Emotional Aspects": "Impulsive thoughts, aggressive mindset, lack of focus.",
+            "Financial/Career Meaning": "Reckless career moves, stalled strategies, aggressive decisions.",
+            "Love/Relationships": "Aggressive communication, unstable connections, impulsive love.",
+            "Spiritual Meaning": "Blocked spiritual quest, aggressive beliefs, divine disconnection.",
+            "Advice/Actionable Guidance": "Slow down, focus energy, avoid aggression.",
+            "Timeline/Timing/Season/Month": "Disrupted period / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Queen of Swords": {
+        "upright": {
+            "General Meaning": "Clarity, independence, truth, sharp intellect, boundaries.",
+            "Mental/Emotional Aspects": "Clear thinking, emotional independence, perceptive mindset.",
+            "Financial/Career Meaning": "Strategic leadership, intellectual clarity, professional boundaries.",
+            "Love/Relationships": "Honest communication, independent love, clear boundaries.",
+            "Spiritual Meaning": "Spiritual truth, mental clarity, divine discernment.",
+            "Advice/Actionable Guidance": "Embrace clarity, set boundaries, speak your truth.",
+            "Timeline/Timing/Season/Month": "Clear period / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Bitterness, coldness, lack of clarity, emotional repression.",
+            "Mental/Emotional Aspects": "Emotional detachment, harsh judgment, lack of empathy.",
+            "Financial/Career Meaning": "Harsh leadership, unclear strategies, professional detachment.",
+            "Love/Relationships": "Cold relationships, emotional distance, harsh communication.",
+            "Spiritual Meaning": "Blocked spiritual truth, lack of divine clarity, emotional repression.",
+            "Advice/Actionable Guidance": "Soften your approach, reconnect with empathy, seek clarity.",
+            "Timeline/Timing/Season/Month": "Detached period / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "King of Swords": {
+        "upright": {
+            "General Meaning": "Authority, truth, mental clarity, leadership, discipline.",
+            "Mental/Emotional Aspects": "Logical thinking, emotional control, intellectual authority.",
+            "Financial/Career Meaning": "Authoritative leadership, strategic decisions, professional clarity.",
+            "Love/Relationships": "Honest partnerships, intellectual bonds, disciplined love.",
+            "Spiritual Meaning": "Spiritual authority, divine truth, mental mastery.",
+            "Advice/Actionable Guidance": "Lead with logic, uphold truth, maintain discipline.",
+            "Timeline/Timing/Season/Month": "Authoritative period / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Abuse of power, manipulation, lack of clarity, authoritarianism.",
+            "Mental/Emotional Aspects": "Harsh judgment, emotional repression, manipulative mindset.",
+            "Financial/Career Meaning": "Manipulative leadership, unclear decisions, professional rigidity.",
+            "Love/Relationships": "Controlling relationships, emotional distance, manipulative love.",
+            "Spiritual Meaning": "Blocked spiritual truth, abusive authority, divine disconnection.",
+            "Advice/Actionable Guidance": "Soften your approach, embrace fairness, avoid manipulation.",
+            "Timeline/Timing/Season/Month": "Authoritarian period / Weeks to Months / Autumn / Element: Air",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Ace of Pentacles": {
+        "upright": {
+            "General Meaning": "Prosperity, opportunity, new beginnings, abundance, manifestation.",
+            "Mental/Emotional Aspects": "Optimism, grounded confidence, practical mindset.",
+            "Financial/Career Meaning": "New financial ventures, career opportunities, material success.",
+            "Love/Relationships": "Stable relationships, nurturing connections, grounded love.",
+            "Spiritual Meaning": "Spiritual abundance, manifesting divine prosperity, grounded energy.",
+            "Advice/Actionable Guidance": "Seize opportunities, invest in growth, stay grounded.",
+            "Timeline/Timing/Season/Month": "New prosperity / Days to Weeks / Winter / Element: Earth",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Missed opportunities, financial loss, lack of growth, instability.",
+            "Mental/Emotional Aspects": "Fear of scarcity, lack of confidence, impractical mindset.",
+            "Financial/Career Meaning": "Failed ventures, financial setbacks, career instability.",
+            "Love/Relationships": "Unstable relationships, lack of grounding, emotional disconnection.",
+            "Spiritual Meaning": "Blocked spiritual abundance, lack of divine prosperity, karmic stagnation.",
+            "Advice/Actionable Guidance": "Reassess opportunities, rebuild stability, overcome fear.",
+            "Timeline/Timing/Season/Month": "Unstable period / Weeks to Months / Winter / Element: Earth",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Two of Pentacles": {
+        "upright": {
+            "General Meaning": "Balance, adaptability, juggling, flexibility, resourcefulness.",
+            "Mental/Emotional Aspects": "Mental agility, managing stress, staying adaptable.",
+            "Financial/Career Meaning": "Balancing finances, multitasking in career, financial flexibility.",
+            "Love/Relationships": "Balancing relationships, adapting to partner’s needs, mutual effort.",
+            "Spiritual Meaning": "Spiritual balance, harmonizing material and spiritual needs.",
+            "Advice/Actionable Guidance": "Stay flexible, prioritize balance, manage multiple demands.",
+            "Timeline/Timing/Season/Month": "Balancing period / Weeks to Months / Winter / Element: Earth",
+            "Yes/No/Maybe": "Maybe"
+        },
+        "reversed": {
+            "General Meaning": "Imbalance, overwhelm, poor juggling, financial instability.",
+            "Mental/Emotional Aspects": "Stress, lack of adaptability, mental overwhelm.",
+            "Financial/Career Meaning": "Financial chaos, multitasking failures, career imbalance.",
+            "Love/Relationships": "Unbalanced relationships, lack of mutual effort, strained connections.",
+            "Spiritual Meaning": "Spiritual imbalance, lack of harmony, karmic chaos.",
+            "Advice/Actionable Guidance": "Restore balance, prioritize tasks, seek stability.",
+            "Timeline/Timing/Season/Month": "Chaotic period / Weeks to Months / Winter / Element: Earth",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Three of Pentacles": {
+        "upright": {
+            "General Meaning": "Collaboration, teamwork, skill, craftsmanship, achievement.",
+            "Mental/Emotional Aspects": "Confidence in skills, cooperative mindset, shared goals.",
+            "Financial/Career Meaning": "Successful teamwork, career recognition, skilled work.",
+            "Love/Relationships": "Collaborative relationships, building together, mutual support.",
+            "Spiritual Meaning": "Spiritual collaboration, building divine connections, shared purpose.",
+            "Advice/Actionable Guidance": "Work with others, hone your skills, value teamwork.",
+            "Timeline/Timing/Season/Month": "Collaborative period / Weeks to Months / Winter / Element: Earth",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Lack of teamwork, poor collaboration, unskilled work, failure.",
+            "Mental/Emotional Aspects": "Lack of confidence, disharmonious mindset, isolation.",
+            "Financial/Career Meaning": "Failed teamwork, lack of recognition, poor craftsmanship.",
+            "Love/Relationships": "Lack of collaboration, strained relationships, lack of support.",
+            "Spiritual Meaning": "Spiritual disconnection, lack of shared purpose, divine isolation.",
+            "Advice/Actionable Guidance": "Improve collaboration, hone skills, seek teamwork.",
+            "Timeline/Timing/Season/Month": "Disharmonious period / Weeks to Months / Winter / Element: Earth",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Four of Pentacles": {
+        "upright": {
+            "General Meaning": "Security, control, possessiveness, stability, conservation.",
+            "Mental/Emotional Aspects": "Fear of loss, need for control, cautious mindset.",
+            "Financial/Career Meaning": "Financial security, hoarding resources, stable career.",
+            "Love/Relationships": "Clinging to relationships, possessiveness, fear of change.",
+            "Spiritual Meaning": "Spiritual rigidity, clinging to material security, blocked growth.",
+            "Advice/Actionable Guidance": "Balance security with generosity, release control, trust in abundance.",
+            "Timeline/Timing/Season/Month": "Stable period / Weeks to Months / Winter / Element: Earth",
+            "Yes/No/Maybe": "No"
+        },
+        "reversed": {
+            "General Meaning": "Generosity, openness, releasing control, financial freedom, flexibility.",
+            "Mental/Emotional Aspects": "Reduced fear, emotional openness, generous mindset.",
+            "Financial/Career Meaning": "Financial generosity, career flexibility, shared resources.",
+            "Love/Relationships": "Open relationships, reduced possessiveness, emotional freedom.",
+            "Spiritual Meaning": "Spiritual generosity, divine abundance, karmic freedom.",
+            "Advice/Actionable Guidance": "Release control, share resources, embrace generosity.",
+            "Timeline/Timing/Season/Month": "Open period / Weeks to Months / Winter / Element: Earth",
+            "Yes/No/Maybe": "Yes"
+        }
+    },
+    "Five of Pentacles": {
+        "upright": {
+            "General Meaning": "Poverty, hardship, insecurity, isolation, financial loss.",
+            "Mental/Emotional Aspects": "Fear of scarcity, feelings of abandonment, low self-worth.",
+            "Financial/Career Meaning": "Financial struggle, job loss, career insecurity.",
+            "Love/Relationships": "Emotional distance, unsupported relationships, feeling neglected.",
+            "Spiritual Meaning": "Spiritual poverty, disconnection from divine support, karmic lessons.",
+            "Advice/Actionable Guidance": "Seek support, focus on inner wealth, overcome scarcity mindset.",
+            "Timeline/Timing/Season/Month": "Hardship period / Weeks to Months / Winter / Element: Earth",
+            "Yes/No/Maybe": "No"
+        },
+        "reversed": {
+            "General Meaning": "Recovery, hope, financial improvement, reconnection, support.",
+            "Mental/Emotional Aspects": "Renewed hope, reduced fear, emotional recovery.",
+            "Financial/Career Meaning": "Financial recovery, new opportunities, career support.",
+            "Love/Relationships": "Reconnected relationships, renewed support, emotional healing.",
+            "Spiritual Meaning": "Spiritual recovery, divine support, karmic healing.",
+            "Advice/Actionable Guidance": "Seek support, embrace hope, rebuild stability.",
+            "Timeline/Timing/Season/Month": "Healing period / Weeks to Months / Winter / Element: Earth",
+            "Yes/No/Maybe": "Yes"
+        }
+    },
+    "Six of Pentacles": {
+        "upright": {
+            "General Meaning": "Generosity, charity, sharing, balance, support, fairness.",
+            "Mental/Emotional Aspects": "Gratitude, fairness, willingness to help.",
+            "Financial/Career Meaning": "Financial support, fair compensation, career generosity.",
+            "Love/Relationships": "Balanced relationships, mutual support, giving and receiving love.",
+            "Spiritual Meaning": "Spiritual generosity, divine balance, karmic fairness.",
+            "Advice/Actionable Guidance": "Share resources, maintain balance, practice generosity.",
+            "Timeline/Timing/Season/Month": "Supportive period / Weeks to Months / Winter / Element: Earth",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Imbalance, greed, unfairness, dependency, exploitation.",
+            "Mental/Emotional Aspects": "Resentment, lack of gratitude, unfair mindset.",
+            "Financial/Career Meaning": "Unfair compensation, financial exploitation, career imbalance.",
+            "Love/Relationships": "Unbalanced relationships, dependency, lack of mutual support.",
+            "Spiritual Meaning": "Spiritual imbalance, lack of divine fairness, karmic exploitation.",
+            "Advice/Actionable Guidance": "Restore fairness, avoid greed, seek balance.",
+            "Timeline/Timing/Season/Month": "Unfair period / Weeks to Months / Winter / Element: Earth",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Seven of Pentacles": {
+        "upright": {
+            "General Meaning": "Patience, investment, growth, hard work, assessment.",
+            "Mental/Emotional Aspects": "Patience, reflection, long-term thinking.",
+            "Financial/Career Meaning": "Long-term investments, career growth, assessing progress.",
+            "Love/Relationships": "Building lasting relationships, patient love, nurturing bonds.",
+            "Spiritual Meaning": "Spiritual growth, patience in divine timing, assessing soul progress.",
+            "Advice/Actionable Guidance": "Be patient, assess your progress, trust in long-term growth.",
+            "Timeline/Timing/Season/Month": "Growth period / Months to Years / Winter / Element: Earth",
+            "Yes/No/Maybe": "Maybe"
+        },
+        "reversed": {
+            "General Meaning": "Impatience, lack of progress, poor investment, frustration.",
+            "Mental/Emotional Aspects": "Impatience, lack of focus, mental frustration.",
+            "Financial/Career Meaning": "Failed investments, stalled career, lack of growth.",
+            "Love/Relationships": "Impatient love, lack of progress, strained relationships.",
+            "Spiritual Meaning": "Blocked spiritual growth, lack of divine patience, karmic frustration.",
+            "Advice/Actionable Guidance": "Be patient, reassess investments, trust in growth.",
+            "Timeline/Timing/Season/Month": "Stagnant period / Weeks to Months / Winter / Element: Earth",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Eight of Pentacles": {
+        "upright": {
+            "General Meaning": "Diligence, skill, craftsmanship, hard work, mastery.",
+            "Mental/Emotional Aspects": "Focus, dedication, pride in work.",
+            "Financial/Career Meaning": "Career improvement, skill development, financial diligence.",
+            "Love/Relationships": "Effort in relationships, building strong bonds, dedicated love.",
+            "Spiritual Meaning": "Spiritual discipline, mastering inner work, divine craftsmanship.",
+            "Advice/Actionable Guidance": "Hone your skills, stay dedicated, focus on quality work.",
+            "Timeline/Timing/Season/Month": "Diligent period / Weeks to Months / Winter / Element: Earth",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Lack of effort, poor craftsmanship, laziness, stagnation.",
+            "Mental/Emotional Aspects": "Lack of focus, apathy, uninspired mindset.",
+            "Financial/Career Meaning": "Career stagnation, lack of skill development, financial setbacks.",
+            "Love/Relationships": "Lack of effort in relationships, strained bonds, emotional stagnation.",
+            "Spiritual Meaning": "Blocked spiritual discipline, lack of inner work, divine stagnation.",
+            "Advice/Actionable Guidance": "Renew effort, improve skills, focus on quality.",
+            "Timeline/Timing/Season/Month": "Stagnant period / Weeks to Months / Winter / Element: Earth",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Nine of Pentacles": {
+        "upright": {
+            "General Meaning": "Abundance, independence, luxury, self-sufficiency, success.",
+            "Mental/Emotional Aspects": "Confidence, self-reliance, enjoying rewards.",
+            "Financial/Career Meaning": "Financial independence, career success, material rewards.",
+            "Love/Relationships": "Independent love, enjoying personal success, stable relationships.",
+            "Spiritual Meaning": "Spiritual abundance, self-sufficient soul, divine rewards.",
+            "Advice/Actionable Guidance": "Enjoy your success, maintain independence, appreciate abundance.",
+            "Timeline/Timing/Season/Month": "Prosperous period / Weeks to Months / Winter / Element: Earth",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Financial loss, dependency, lack of independence, instability.",
+            "Mental/Emotional Aspects": "Insecurity, lack of confidence, emotional dependence.",
+            "Financial/Career Meaning": "Financial setbacks, career instability, lack of success.",
+            "Love/Relationships": "Dependent relationships, lack of stability, emotional insecurity.",
+            "Spiritual Meaning": "Blocked spiritual abundance, lack of divine independence, karmic instability.",
+            "Advice/Actionable Guidance": "Rebuild independence, restore stability, seek abundance.",
+            "Timeline/Timing/Season/Month": "Unstable period / Weeks to Months / Winter / Element: Earth",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Ten of Pentacles": {
+        "upright": {
+            "General Meaning": "Wealth, legacy, family, stability, long-term success.",
+            "Mental/Emotional Aspects": "Security, family pride, emotional fulfillment.",
+            "Financial/Career Meaning": "Financial legacy, stable career, generational wealth.",
+            "Love/Relationships": "Stable family, lasting love, legacy-building relationships.",
+            "Spiritual Meaning": "Spiritual legacy, divine stability, karmic fulfillment.",
+            "Advice/Actionable Guidance": "Build for the future, cherish family, secure your legacy.",
+            "Timeline/Timing/Season/Month": "Long-term success / Months to Years / Winter / Element: Earth",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Financial loss, family discord, broken legacy, instability.",
+            "Mental/Emotional Aspects": "Family conflict, emotional insecurity, lack of fulfillment.",
+            "Financial/Career Meaning": "Financial instability, career setbacks, broken legacy.",
+            "Love/Relationships": "Family discord, broken relationships, lack of harmony.",
+            "Spiritual Meaning": "Spiritual disconnection, lack of divine stability, karmic discord.",
+            "Advice/Actionable Guidance": "Resolve family conflicts, rebuild stability, restore legacy.",
+            "Timeline/Timing/Season/Month": "Unstable period / Weeks to Months / Winter / Element: Earth",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Page of Pentacles": {
+        "upright": {
+            "General Meaning": "Opportunity, learning, ambition, practicality, new ventures.",
+            "Mental/Emotional Aspects": "Curiosity, eagerness to learn, practical mindset.",
+            "Financial/Career Meaning": "New financial opportunities, career learning, practical goals.",
+            "Love/Relationships": "Grounded love, learning in relationships, practical connections.",
+            "Spiritual Meaning": "Spiritual curiosity, practical spiritual growth, divine learning.",
+            "Advice/Actionable Guidance": "Embrace learning, pursue practical goals, seize new opportunities.",
+            "Timeline/Timing/Season/Month": "Learning period / Days to Weeks / Winter / Element: Earth",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Lack of ambition, missed opportunities, impracticality, laziness.",
+            "Mental/Emotional Aspects": "Apathy, lack of curiosity, uninspired mindset.",
+            "Financial/Career Meaning": "Stalled ventures, lack of learning, financial setbacks.",
+            "Love/Relationships": "Unstable relationships, lack of effort, emotional disconnection.",
+            "Spiritual Meaning": "Blocked spiritual curiosity, lack of divine learning, karmic stagnation.",
+            "Advice/Actionable Guidance": "Renew ambition, seize opportunities, stay practical.",
+            "Timeline/Timing/Season/Month": "Stagnant period / Weeks to Months / Winter / Element: Earth",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Knight of Pentacles": {
+        "upright": {
+            "General Meaning": "Hard work, reliability, routine, responsibility, efficiency.",
+            "Mental/Emotional Aspects": "Discipline, practical thinking, steady focus.",
+            "Financial/Career Meaning": "Steady career progress, reliable work, financial responsibility.",
+            "Love/Relationships": "Dependable relationships, steady love, practical commitment.",
+            "Spiritual Meaning": "Spiritual discipline, grounded practice, divine reliability.",
+            "Advice/Actionable Guidance": "Stay reliable, work steadily, maintain practical focus.",
+            "Timeline/Timing/Season/Month": "Steady period / Weeks to Months / Winter / Element: Earth",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Stagnation, laziness, lack of progress, unreliability.",
+            "Mental/Emotional Aspects": "Lack of discipline, uninspired mindset, mental stagnation.",
+            "Financial/Career Meaning": "Stalled career, unreliable work, financial setbacks.",
+            "Love/Relationships": "Unreliable relationships, lack of commitment, emotional stagnation.",
+            "Spiritual Meaning": "Blocked spiritual discipline, lack of divine reliability, karmic stagnation.",
+            "Advice/Actionable Guidance": "Renew effort, stay reliable, focus on progress.",
+            "Timeline/Timing/Season/Month": "Stagnant period / Weeks to Months / Winter / Element: Earth",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "Queen of Pentacles": {
+        "upright": {
+            "General Meaning": "Nurturing, abundance, practicality, security, generosity.",
+            "Mental/Emotional Aspects": "Warmth, grounded confidence, nurturing mindset.",
+            "Financial/Career Meaning": "Financial security, nurturing leadership, prosperous career.",
+            "Love/Relationships": "Nurturing love, stable relationships, generous partnerships.",
+            "Spiritual Meaning": "Spiritual abundance, divine nurturing, grounded wisdom.",
+            "Advice/Actionable Guidance": "Nurture others, maintain stability, share your abundance.",
+            "Timeline/Timing/Season/Month": "Nurturing period / Weeks to Months / Winter / Element: Earth",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Neglect, financial instability, lack of nurturing, dependency.",
+            "Mental/Emotional Aspects": "Insecurity, lack of warmth, emotional neglect.",
+            "Financial/Career Meaning": "Financial setbacks, unstable leadership, lack of prosperity.",
+            "Love/Relationships": "Neglectful relationships, emotional distance, lack of stability.",
+            "Spiritual Meaning": "Blocked spiritual abundance, lack of divine nurturing, karmic neglect.",
+            "Advice/Actionable Guidance": "Rebuild stability, nurture others, restore abundance.",
+            "Timeline/Timing/Season/Month": "Unstable period / Weeks to Months / Winter / Element: Earth",
+            "Yes/No/Maybe": "No"
+        }
+    },
+    "King of Pentacles": {
+        "upright": {
+            "General Meaning": "Wealth, stability, leadership, discipline, abundance.",
+            "Mental/Emotional Aspects": "Confidence, practical wisdom, grounded authority.",
+            "Financial/Career Meaning": "Financial success, authoritative leadership, stable career.",
+            "Love/Relationships": "Stable partnerships, dependable love, generous commitment.",
+            "Spiritual Meaning": "Spiritual wealth, divine stability, grounded leadership.",
+            "Advice/Actionable Guidance": "Lead with stability, share wealth, maintain discipline.",
+            "Timeline/Timing/Season/Month": "Prosperous period / Weeks to Months / Winter / Element: Earth",
+            "Yes/No/Maybe": "Yes"
+        },
+        "reversed": {
+            "General Meaning": "Greed, financial instability, weak leadership, materialism.",
+            "Mental/Emotional Aspects": "Arrogance, lack of wisdom, materialistic mindset.",
+            "Financial/Career Meaning": "Financial setbacks, failed leadership, unstable career.",
+            "Love/Relationships": "Materialistic relationships, lack of stability, emotional distance.",
+            "Spiritual Meaning": "Blocked spiritual wealth, lack of divine stability, karmic greed.",
+            "Advice/Actionable Guidance": "Restore balance, share wealth, lead with wisdom.",
+            "Timeline/Timing/Season/Month": "Unstable period / Weeks to Months / Winter / Element: Earth",
+            "Yes/No/Maybe": "No"
+        }
+    }
+}
