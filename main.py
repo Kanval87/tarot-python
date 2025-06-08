@@ -26,6 +26,7 @@ class TarotCard(BoxLayout):
             image_path = f"tarot_cards/{card_name} - Copy.png"
 
         self.card_name = card_name
+        self.img_orientation = img_orientation
         self.description = description
 
         self.image = Image(source=image_path, allow_stretch=True, keep_ratio=True)
@@ -44,7 +45,7 @@ class TarotCard(BoxLayout):
         box = BoxLayout(orientation='vertical', padding=10)
         scroll = ScrollView(size_hint=(1, 1))
         label = Label(
-            text=f"{self.card_name} ({self.orientation.capitalize()}):\n\n{json.dumps(self.description, indent=2, ensure_ascii=False)}",
+            text=f"{self.card_name} ({self.img_orientation.capitalize()}):\n\n{json.dumps(self.description, indent=2, ensure_ascii=False)}",
             size_hint_y=None, halign='left', valign='top'
         )
         label.bind(texture_size=lambda instance, value: setattr(label, 'height', value[1]))
